@@ -1,0 +1,8 @@
+2023-03-31 21:44:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "SKI_RESORT_TIMELINE" nicht gefunden
+Table "SKI_RESORT_TIMELINE" not found; SQL statement:
+select s1_0.id,s1_0.date,s1_0.lifts_open,s1_0.operation,s1_0.pistes_open,s1_0.ski_resort_id,s1_0.snow_height_mountain,s1_0.snow_height_valley from ski_resort_timeline s1_0 where s1_0.ski_resort_id=? order by s1_0.date desc fetch first 1 rows only [42102-214]
+2023-03-31 22:00:44 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabelle "SKISKI_RESORT_TIMELINE" nicht gefunden
+Table "SKISKI_RESORT_TIMELINE" not found; SQL statement:
+SELECT * FROM SKISKI_RESORT_TIMELINE _RESORT [42102-214]

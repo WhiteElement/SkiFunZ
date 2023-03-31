@@ -1,0 +1,2211 @@
+1680012116427:hello
+1680012120829:test
+1680012152030:ts
+1680012182241:help
+1680012188382:test
+1680013336290:bitn
+1680013345082:ee-eh
+1680013359157:help
+1680013363851:gebiet-neu
+1680103860642:help
+1680103865325:gebiet-neu
+1680112529197:gebiet-nu
+1680112533430:gebiet-neu
+1680117468579:https://www.bergfex.at/sonnenkopf/schneebericht/
+1680117475765:gebiet-neu
+1680117489473:https://www.bergfex.de/liftverbund-feldberg/schneebericht/
+1680117495469:gebiet-neu
+1680120272553:https://www.bergfex.at/sonnenkopf/schneebericht/
+1680120278165:gebiet-neu
+1680179697786:stacktrace
+1680180369834:gebiet-neu
+1680180896350:geiet-neu
+1680180900482:gebiet-neu
+1680180908076:https://www.bergfex.at/sonnenkopf/
+1680180912377:gebiet-neu
+1680184461569:https://www.bergfex.at/sonnenkopf/schneebericht
+1680184464437:gebiet-neu
+1680185153945:gebiet-update
+1680185164651:stacktrace
+1680185211270:gebiet-update
+1680185237139:stacktrace
+1680185322229:gebiet-update
+1680185979858:<!DOCTYPE html>
+1680185979911:<html>
+1680185979925:<head>
+1680185979940:<title>BERGFEX: Schneebericht Sonnenkopf / Klostertal: Schneehöhe Sonnenkopf / Klostertal - Schneehöhen - Schneewerte</title>
+1680185979955:<script src="https://cdn.stroeerdigitalgroup.de/metatag/live/SDG_ConsentOnly/metaTag.min.js" type="text/javascript"></script>
+1680185979962:<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+1680185979981:<meta http-equiv="Content-Language" content="de"/>
+1680185979986:<meta name="language" content="de"/>
+1680185979992:<meta name="viewport" content="width=device-width, viewport-fit=cover"/>
+1680185979996:<meta name="robots" content="index, follow" />
+1680185980000:<script type="application/ld+json">
+1680185980004:{
+1680185980007:"@context": "https://schema.org",
+1680185980011:"@type": "Organization",
+1680185980014:"url": "https://www.bergfex.at",
+1680185980018:"logo": "https://www.bergfex.at/images/logo.png"
+1680185980021:}
+1680185980023:</script>
+1680185980027:<link rel="canonical" href="https://www.bergfex.at/sonnenkopf/schneebericht/" />
+1680185980043:<meta name="theme-color" content="#2c63a2" media="(prefers-color-scheme: light)"/>
+1680185980060:<meta name="theme-color" content="#2c63a2" media="(prefers-color-scheme: dark)"/>
+1680185980099:<meta property="og:title" content="BERGFEX: Schneebericht Sonnenkopf / Klostertal: Schneehöhe Sonnenkopf / Klostertal - Schneehöhen - Schneewerte"/>
+1680185980126:<meta property="og:image" content="https://vcdn.bergfex.at/images/resized/d8/4942b7d8205723d8_6b85014df9f4393f.jpg"/>
+1680185980134:<meta property="og:image:type" content="image/jpg"/>
+1680185980139:<meta property="og:image:width" content="1200"/>
+1680185980143:<meta property="og:image:height" content="627"/>
+1680185980150:<link rel="shortcut icon" type="image/x-icon" href="//vcdn.bergfex.at/images/favicons/favicon.ico"/>
+1680185980157:<link rel="icon" type="image/png" href="//vcdn.bergfex.at/images/favicons/favicon-32x32.png" sizes="32x32"/>
+1680185980163:<link rel="icon" type="image/png" href="//vcdn.bergfex.at/images/favicons/favicon-96x96.png" sizes="96x96"/>
+1680185980170:<link rel="apple-touch-icon" sizes="180x180" href="//vcdn.bergfex.at/images/favicons/apple-icon-180x180.png"/>
+1680185980177:<link rel="mask-icon" href="//vcdn.bergfex.at/images/mask-icon.svg" color="#1599ff"/><link rel="alternate" hreflang="de" href="/sonnenkopf/schneebericht/" />
+1680185980183:<link rel="alternate" hreflang="en" href="https://www.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980188:<link rel="alternate" hreflang="fr" href="https://www.bergfex.fr/sonnenkopf/schneebericht/" />
+1680185980193:<link rel="alternate" hreflang="it" href="https://it.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980198:<link rel="alternate" hreflang="es" href="https://www.bergfex.es/sonnenkopf/schneebericht/" />
+1680185980203:<link rel="alternate" hreflang="nl" href="https://nl.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980208:<link rel="alternate" hreflang="sv" href="https://se.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980213:<link rel="alternate" hreflang="no" href="https://no.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980218:<link rel="alternate" hreflang="da" href="https://dk.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980224:<link rel="alternate" hreflang="fi" href="https://fi.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980229:<link rel="alternate" hreflang="hu" href="https://hu.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980234:<link rel="alternate" hreflang="cs" href="https://www.bergfex.cz/sonnenkopf/schneebericht/" />
+1680185980239:<link rel="alternate" hreflang="sk" href="https://sk.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980245:<link rel="alternate" hreflang="pl" href="https://www.bergfex.pl/sonnenkopf/schneebericht/" />
+1680185980256:<link rel="alternate" hreflang="hr" href="https://hr.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980265:<link rel="alternate" hreflang="sl" href="https://www.bergfex.si/sonnenkopf/schneebericht/" />
+1680185980274:<link rel="alternate" hreflang="ru" href="https://ru.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980286:<link rel="alternate" hreflang="ro" href="https://ro.bergfex.com/sonnenkopf/schneebericht/" />
+1680185980313:<link rel="stylesheet" charset="utf-8" href="//vcdn.bergfex.at/include/cssmin/bergfex-4fe01e07961e68daf4af87dd0a229c65-1680149723.css"/><link rel="preload" as="style" href="https://vcdn.bergfex.at/build/assets/app-d55f2a78.css" /><link rel="modulepreload" href="https://vcdn.bergfex.at/build/assets/app-78dc4e43.js" /><link rel="modulepreload" href="https://vcdn.bergfex.at/build/assets/contentMenu-11fb3a33.js" /><link rel="stylesheet" href="https://vcdn.bergfex.at/build/assets/app-d55f2a78.css" /><script type="module" src="https://vcdn.bergfex.at/build/assets/app-78dc4e43.js"></script>
+1680185980324:<link rel="stylesheet" charset="utf-8" href="//vcdn.bergfex.at/include/cssmin/print-270cde655c615d7d82702341e90c50e3-1670425022.css" media="print"/><script>
+1680185980330:if (typeof bergfex == "undefined") {
+1680185980334:var bergfex = new Object();
+1680185980336:}
+1680185980339:bergfex.autoCompleteActive = true;
+1680185980342:bergfex.autoCompleteSuggestionStartChar = 1;
+1680185980345:</script><script>
+1680185980348:// bergfex namespace
+1680185980350:if (typeof bergfex == "undefined") {
+1680185980352:var bergfex = { };
+1680185980354:}
+1680185980357:bergfex.staticHost = '//vcdn.bergfex.at';
+1680185980360:bergfex.staticHosts = ['//vcdn.bergfex.at'];
+1680185980363:</script>
+1680185980370:<script type="text/javascript" charset="utf-8" src="//vcdn.bergfex.at/include/jsmin/js-libs.1-2-866f4ed0ab716a3600a7722d5a49cb64-1638804838.jsmin.js"></script>
+1680185980377:<script defer type="text/javascript" charset="utf-8" src="//vcdn.bergfex.at/include/jsmin/js-libs.2-2-af9bfcbb3ed7dbec2fef31c2db1b9a40-1678715897.jsmin.js"></script>
+1680185980383:<script src="//vcdn.bergfex.at/include/js/jquery/plugins/ui/1.10.3/i18n/jquery.ui.datepicker-de.js"
+1680185980386:type="text/javascript"></script><script>
+1680185980389:var gMapKey = "AIzaSyDhkXDPfuKgSZgCcKfDLRHNZFrsdbfQkiQ";
+1680185980391:var mapEnabled = true;
+1680185980393:var mapHeight = 430;
+1680185980396:bergfex.libs = { };
+1680185980398:bergfex.season = "winter";
+1680185980400:</script><script>
+1680185980402:var jBlockTruncateSettings = {
+1680185980405:'moreText': "mehr anzeigen",
+1680185980407:'lessText': "weniger"
+1680185980409:};
+1680185980412:window.acomtag = window.acomtag || { };
+1680185980415:acomtag.data = acomtag.data || [];
+1680185980418:acomtag.data.push([ 'consent',     ["true"] ]);
+1680185980423:acomtag.data.push([ 'category',    ["ski","schneehoehen"] ]);
+1680185980426:acomtag.data.push([ 'topcategory', ["sport"] ]);
+1680185980430:acomtag.data.push([ 'country',     ["at"] ]);
+1680185980435:acomtag.data.push([ 'region',      ["oesterreich.vorarlberg.sonnenkopf"] ]);
+1680185980439:acomtag.data.push([ 'pageType',    ["other"] ]);
+1680185980441:</script>
+1680185980445:<script>
+1680185980456:(function(w,d,s,l,i){
+1680185980473:w[l] =  w[l] || [];
+1680185980484:w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+1680185980490:var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+1680185980494:j.async=true;
+1680185980500:j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+1680185980510:f.parentNode.insertBefore(j,f);
+1680185980528:})(window,document,'script','dataLayer','GTM-MLZ3QJF');
+1680185980533:</script>
+1680185980541:<script type="text/javascript" charset="utf-8" src="//vcdn.bergfex.at/include/jsmin/bergfex-libs-33d9cccdac404b64e0c55c04cf6b97a8-1679551833.jsmin.js"></script><meta name="geonomap" content="0">
+1680185980550:<meta name="geomap" content="keep">
+1680185980555:<meta name="geocontext" content="Skigebiet_282">
+1680185980560:<meta name="geoposition" content="47.109165,10.054722,13,o">
+1680185980564:<meta name="geotarget" content="1">
+1680185980567:<meta name="geolayer" content="winter">
+1680185980572:<meta name="keywords" content="Sonnenkopf / Klostertal,,,,Vorarlberg,Österreich,Skigebiet,Schigebiet,Schneebericht,Schneehöhen,Schneewerte,Schnee,Neuschnee,Schneeberichte">
+1680185980580:<meta name="description" content="Schneehöhen Sonnenkopf / Klostertal - Vorarlberg: Alle Informationen zum Winterurlaub und Skiurlaub Sonnenkopf / Klostertal. Sie erhalten Wintersport-Infos zu Schneebericht, Schneehöhe und Schneewerte Sonnenkopf / Klostertal.">
+1680185980583:</head>
+1680185980585:<body class="site">
+1680185980588:<div id="page-top">
+1680185980590:<!--page-top-->
+1680185980594:<div style="position: absolute;">
+1680185980621:<script>
+1680185980623:// https://support.google.com/analytics/answer/10022331?hl=de
+1680185980626:// window['gtag_enable_tcf_support'] = true;
+1680185980627:bergfex.Analytics = {
+1680185980630:properties: {
+1680185980634:admask: 'oesterreich.vorarlberg.sonnenkopf',
+1680185980638:language: 'de',
+1680185980640:page_location: '/sonnenkopf/schneebericht/',
+1680185980643:},
+1680185980650:};
+1680185980656:window.dataLayer = window.dataLayer || [];
+1680185980660:bergfex.labelChunks = [];
+1680185980666:bergfex.addEventLabelChunks = function(chunks) {
+1680185980672:if (!bergfex.labelChunks) {
+1680185980675:bergfex.labelChunks = [];
+1680185980681:}
+1680185980684:bergfex.labelChunks = bergfex.labelChunks.concat(chunks);
+1680185980687:}
+1680185980690:bergfex.gtag = function() {
+1680185980697:dataLayer.push(arguments);
+1680185980700:}
+1680185980704:bergfex.gtagEvent = function(name, category, prefix, suffix) {
+1680185980707:var eventPrefix = (prefix) ? prefix : '';
+1680185980710:var eventSuffix = (suffix) ? suffix : '_lang';
+1680185980714:bergfex.gtag('event', name, {
+1680185980717:'event_category': category,
+1680185980721:'event_label': eventPrefix  + bergfex.labelChunks.join('-') + eventSuffix
+1680185980727:});
+1680185980733:}
+1680185980735:// log map views.
+1680185980738:</script><!-- Google Tag Manager (noscript) -->
+1680185980742:<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLZ3QJF"
+1680185980747:height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+1680185980751:<!-- End Google Tag Manager (noscript) --></div>
+1680185980754:<nav id="nav-main" class="nav-default">
+1680185980759:<a class="logo-bergfex nav-main__link--logo" href="/" title="bergfex Homepage"></a>
+1680185980767:<div class="nav-main-search responsive-only"
+1680185980769:id="nav-main-search">
+1680185980771:</div>
+1680185980773:<div class="nav-main-user responsive-only">
+1680185980775:<a href="/mybergfex/">
+1680185980777:<div class="avatar" >
+1680185980779:</div></a>
+1680185980781:</div>
+1680185980783:<div class="nav-main-trigger"></div>
+1680185980785:<div class="nav-main-close"></div>
+1680185980788:<div class="nav-main-container page-left-margin">
+1680185980790:<div class="nav-search">
+1680185980792:<form autocomplete="off"
+1680185980793:method="get"
+1680185980795:action="/suchen/"
+1680185980797:name="sitesearch">
+1680185980799:<div class="search-icon"></div>
+1680185980802:<input autocomplete="off"
+1680185980804:type="text"
+1680185980806:id="search-input-field"
+1680185980808:name="q"
+1680185980810:placeholder="Suchen"
+1680185980812:autocorrect="off"
+1680185980814:autocapitalize="off"
+1680185980815:spellcheck="false"
+1680185980817:maxlength="256"/>
+1680185980819:</form>
+1680185980820:</div>
+1680185980823:<!-- on dropdown, inject logo from mainlogo position via js -->
+1680185980825:<ul class="nav-list">
+1680185980827:<li class="has-children collapsed selected-init">
+1680185980830:<a class="nav-main__link--winter">Winter</a>
+1680185980831:<ul>
+1680185980833:<li class="has-children collapsed">
+1680185980835:<div class="h2">Themen</div>
+1680185980837:<ul>
+1680185980840:<li>
+1680185980843:<a href="/oesterreich/" class="nav-main__sub-link--skiresorts">
+1680185980850:Skigebiete
+1680185980852:</a>
+1680185980854:</li>
+1680185980856:<li >
+1680185980859:<a href="/oesterreich/snow-parks/" class="nav-main__sub-link--snow-parks">
+1680185980860:Snowparks
+1680185980862:</a>
+1680185980864:</li>
+1680185980866:<li >
+1680185980869:<a href="/oesterreich/langlaufen/" class="nav-main__sub-link--cross-country-skiing">
+1680185980872:Langlaufen
+1680185980874:</a>
+1680185980880:</li>
+1680185980883:<li>
+1680185980888:<a href="/oesterreich/unterkuenfte/" class="nav-main__sub-link--accommodations">
+1680185980890:Unterkünfte
+1680185980891:</a>
+1680185980893:</li>
+1680185980897:<li>
+1680185980901:<a href="/c/de/skiverleih/" class="nav-main__sub-link--skirental">
+1680185980903:Skiverleih
+1680185980906:</a>
+1680185980907:</li>
+1680185980909:</ul>
+1680185980911:</li>
+1680185980914:<li class="has-children collapsed"> <!-- define max height for section, overflow scroll -->
+1680185980917:<div class="h2">Länder</div>
+1680185980919:<ul>
+1680185980923:<li class="selected">
+1680185980927:<a href="//www.bergfex.at/oesterreich/" class="nav-main__sub-link--country">
+1680185980931:Österreich
+1680185980933:</a>
+1680185980935:</li>
+1680185980937:<li >
+1680185980941:<a href="//www.bergfex.ch/schweiz/" class="nav-main__sub-link--country">
+1680185980944:Schweiz
+1680185980948:</a>
+1680185980952:</li>
+1680185980956:<li >
+1680185980960:<a href="//www.bergfex.de/deutschland/" class="nav-main__sub-link--country">
+1680185980963:Deutschland
+1680185980967:</a>
+1680185980968:</li>
+1680185980970:<li >
+1680185980973:<a href="//www.bergfex.it/italien/" class="nav-main__sub-link--country">
+1680185980975:Italien
+1680185980977:</a>
+1680185980978:</li>
+1680185980981:<li >
+1680185980983:<a href="//www.bergfex.at/slovenia/" class="nav-main__sub-link--country">
+1680185980984:Slowenien
+1680185980986:</a>
+1680185980987:</li>
+1680185980988:<li >
+1680185980990:<a href="//www.bergfex.at/frankreich/" class="nav-main__sub-link--country">
+1680185980992:Frankreich
+1680185980993:</a>
+1680185980994:</li>
+1680185980995:<li >
+1680185980998:<a href="//www.bergfex.at/nederland/" class="nav-main__sub-link--country">
+1680185981000:Niederlande
+1680185981001:</a>
+1680185981002:</li>
+1680185981004:<li >
+1680185981007:<a href="//www.bergfex.at/belgie/" class="nav-main__sub-link--country">
+1680185981009:Belgien
+1680185981010:</a>
+1680185981011:</li>
+1680185981012:<li >
+1680185981015:<a href="//www.bergfex.at/polska/" class="nav-main__sub-link--country">
+1680185981016:Polen
+1680185981018:</a>
+1680185981019:</li>
+1680185981021:<li >
+1680185981024:<a href="//www.bergfex.at/czechia/" class="nav-main__sub-link--country">
+1680185981026:Tschechien
+1680185981028:</a>
+1680185981030:</li>
+1680185981032:<li >
+1680185981035:<a href="//www.bergfex.at/slovakia/" class="nav-main__sub-link--country">
+1680185981037:Slowakei
+1680185981038:</a>
+1680185981040:</li>
+1680185981041:<li >
+1680185981044:<a href="//www.bergfex.at/spanien/" class="nav-main__sub-link--country">
+1680185981045:Spanien
+1680185981060:</a>
+1680185981068:</li>
+1680185981071:<li >
+1680185981074:<a href="//www.bergfex.at/kroatien/" class="nav-main__sub-link--country">
+1680185981076:Kroatien
+1680185981077:</a>
+1680185981079:</li>
+1680185981081:<li >
+1680185981084:<a href="//www.bergfex.at/bosnien-herzegowina/" class="nav-main__sub-link--country">
+1680185981086:Bosnien und Herzegowina
+1680185981088:</a>
+1680185981089:</li>
+1680185981091:<li >
+1680185981094:<a href="//www.bergfex.at/luxemburg/" class="nav-main__sub-link--country">
+1680185981096:Luxemburg
+1680185981098:</a>
+1680185981099:</li>
+1680185981101:<li >
+1680185981104:<a href="//www.bergfex.ch/liechtenstein/" class="nav-main__sub-link--country">
+1680185981105:Liechtenstein
+1680185981107:</a>
+1680185981108:</li>
+1680185981110:<li >
+1680185981114:<a href="//www.bergfex.at/andorra/" class="nav-main__sub-link--country">
+1680185981116:Andorra
+1680185981117:</a>
+1680185981120:</li>
+1680185981122:</ul>
+1680185981124:</li>
+1680185981127:<li class="has-children collapsed"> <!-- define max height for section, overflow scroll -->
+1680185981129:<div class="h2">Bundesländer</div>
+1680185981131:<ul>
+1680185981133:<li >
+1680185981135:<a href="/tirol/" class="nav-main__sub-link--region">Tirol</a>
+1680185981137:</li>
+1680185981138:<li >
+1680185981141:<a href="/salzburg/" class="nav-main__sub-link--region">Salzburger Land</a>
+1680185981143:</li>
+1680185981144:<li >
+1680185981148:<a href="/steiermark/" class="nav-main__sub-link--region">Steiermark</a>
+1680185981149:</li>
+1680185981151:<li class="selected">
+1680185981154:<a href="/vorarlberg/" class="nav-main__sub-link--region">Vorarlberg</a>
+1680185981156:</li>
+1680185981157:<li >
+1680185981160:<a href="/kaernten/" class="nav-main__sub-link--region">Kärnten</a>
+1680185981161:</li>
+1680185981163:<li >
+1680185981166:<a href="/oberoesterreich/" class="nav-main__sub-link--region">Oberösterreich</a>
+1680185981168:</li>
+1680185981169:<li >
+1680185981172:<a href="/niederoesterreich/" class="nav-main__sub-link--region">Niederösterreich</a>
+1680185981173:</li>
+1680185981174:<li >
+1680185981176:<a href="/wien/" class="nav-main__sub-link--region">Wien</a>
+1680185981177:</li>
+1680185981178:<li >
+1680185981181:<a href="/burgenland/" class="nav-main__sub-link--region">Burgenland</a>
+1680185981182:</li>
+1680185981183:</ul>
+1680185981184:</li>
+1680185981185:</ul>
+1680185981186:</li>
+1680185981187:<li class="has-children collapsed ">
+1680185981189:<a class="nav-main__link--summer">Sommer</a>
+1680185981190:<ul>
+1680185981192:<li class="has-children collapsed">
+1680185981193:<div class="h2">Themen</div>
+1680185981194:<ul>
+1680185981195:<li>
+1680185981198:<a href="/sommer/oesterreich/" class="nav-main__sub-link--regions">Regionen</a>
+1680185981200:</li>
+1680185981201:<li >
+1680185981204:<a href="/sommer/oesterreich/touren/" class="nav-main__sub-link--tours">Touren</a>
+1680185981205:</li>
+1680185981206:<li >
+1680185981209:<a href="/sommer/oesterreich/highlights/" class="nav-main__sub-link--highlights">Freizeittipps</a>
+1680185981211:</li>
+1680185981212:<li >
+1680185981215:<a href="/sommer/oesterreich/seen/" class="nav-main__sub-link--lakes">Badeseen</a>
+1680185981216:</li>
+1680185981217:<li >
+1680185981220:<a href="/sommer/oesterreich/unterkuenfte/" class="nav-main__sub-link--accommodations">Unterkünfte</a>
+1680185981221:</li>
+1680185981222:</ul>
+1680185981223:</li>
+1680185981226:<li class="has-children collapsed"> <!-- define max height for section, overflow scroll -->
+1680185981228:<div class="h2">Länder</div>
+1680185981229:<ul>
+1680185981231:<li class="selected">
+1680185981233:<a href="//www.bergfex.at/sommer/oesterreich/" class="nav-main__sub-link--country">
+1680185981235:Österreich
+1680185981236:</a>
+1680185981237:</li>
+1680185981238:<li >
+1680185981243:<a href="//www.bergfex.ch/sommer/schweiz/" class="nav-main__sub-link--country">
+1680185981244:Schweiz
+1680185981246:</a>
+1680185981247:</li>
+1680185981248:<li >
+1680185981251:<a href="//www.bergfex.de/sommer/deutschland/" class="nav-main__sub-link--country">
+1680185981252:Deutschland
+1680185981254:</a>
+1680185981256:</li>
+1680185981258:<li >
+1680185981260:<a href="//www.bergfex.it/sommer/italien/" class="nav-main__sub-link--country">
+1680185981266:Italien
+1680185981268:</a>
+1680185981270:</li>
+1680185981273:<li >
+1680185981275:<a href="//www.bergfex.at/sommer/slovenia/" class="nav-main__sub-link--country">
+1680185981277:Slowenien
+1680185981280:</a>
+1680185981281:</li>
+1680185981284:<li >
+1680185981299:<a href="//www.bergfex.at/sommer/frankreich/" class="nav-main__sub-link--country">
+1680185981302:Frankreich
+1680185981305:</a>
+1680185981307:</li>
+1680185981309:<li >
+1680185981314:<a href="//www.bergfex.at/sommer/nederland/" class="nav-main__sub-link--country">
+1680185981317:Niederlande
+1680185981319:</a>
+1680185981321:</li>
+1680185981324:<li >
+1680185981327:<a href="//www.bergfex.at/sommer/belgie/" class="nav-main__sub-link--country">
+1680185981330:Belgien
+1680185981332:</a>
+1680185981335:</li>
+1680185981337:<li >
+1680185981340:<a href="//www.bergfex.at/sommer/polska/" class="nav-main__sub-link--country">
+1680185981342:Polen
+1680185981344:</a>
+1680185981348:</li>
+1680185981350:<li >
+1680185981353:<a href="//www.bergfex.at/sommer/czechia/" class="nav-main__sub-link--country">
+1680185981355:Tschechien
+1680185981357:</a>
+1680185981358:</li>
+1680185981360:<li >
+1680185981362:<a href="//www.bergfex.at/sommer/slovakia/" class="nav-main__sub-link--country">
+1680185981364:Slowakei
+1680185981366:</a>
+1680185981367:</li>
+1680185981369:<li >
+1680185981372:<a href="//www.bergfex.at/sommer/spanien/" class="nav-main__sub-link--country">
+1680185981373:Spanien
+1680185981375:</a>
+1680185981376:</li>
+1680185981377:<li >
+1680185981382:<a href="//www.bergfex.at/sommer/kroatien/" class="nav-main__sub-link--country">
+1680185981384:Kroatien
+1680185981385:</a>
+1680185981388:</li>
+1680185981389:<li >
+1680185981392:<a href="//www.bergfex.at/sommer/bosnien-herzegowina/" class="nav-main__sub-link--country">
+1680185981394:Bosnien und Herzegowina
+1680185981394:</a>
+1680185981396:</li>
+1680185981397:<li >
+1680185981399:<a href="//www.bergfex.at/sommer/luxemburg/" class="nav-main__sub-link--country">
+1680185981400:Luxemburg
+1680185981401:</a>
+1680185981402:</li>
+1680185981403:<li >
+1680185981405:<a href="//www.bergfex.ch/sommer/liechtenstein/" class="nav-main__sub-link--country">
+1680185981406:Liechtenstein
+1680185981407:</a>
+1680185981408:</li>
+1680185981409:<li >
+1680185981411:<a href="//www.bergfex.at/sommer/andorra/" class="nav-main__sub-link--country">
+1680185981413:Andorra
+1680185981414:</a>
+1680185981415:</li>
+1680185981416:</ul>
+1680185981417:</li>
+1680185981419:<li class="has-children collapsed"> <!-- define max height for section, overflow scroll -->
+1680185981421:<div class="h2">Bundesländer</div>
+1680185981422:<ul>
+1680185981423:<li >
+1680185981425:<a href="/sommer/tirol/" class="nav-main__sub-link--region">Tirol</a>
+1680185981426:</li>
+1680185981427:<li >
+1680185981431:<a href="/sommer/salzburg/" class="nav-main__sub-link--region">Salzburger Land</a>
+1680185981432:</li>
+1680185981433:<li >
+1680185981436:<a href="/sommer/steiermark/" class="nav-main__sub-link--region">Steiermark</a>
+1680185981437:</li>
+1680185981438:<li class="selected">
+1680185981440:<a href="/sommer/vorarlberg/" class="nav-main__sub-link--region">Vorarlberg</a>
+1680185981442:</li>
+1680185981443:<li >
+1680185981445:<a href="/sommer/kaernten/" class="nav-main__sub-link--region">Kärnten</a>
+1680185981446:</li>
+1680185981447:<li >
+1680185981450:<a href="/sommer/oberoesterreich/" class="nav-main__sub-link--region">Oberösterreich</a>
+1680185981451:</li>
+1680185981452:<li >
+1680185981454:<a href="/sommer/niederoesterreich/" class="nav-main__sub-link--region">Niederösterreich</a>
+1680185981455:</li>
+1680185981456:<li >
+1680185981458:<a href="/sommer/wien/" class="nav-main__sub-link--region">Wien</a>
+1680185981459:</li>
+1680185981460:<li >
+1680185981463:<a href="/sommer/burgenland/" class="nav-main__sub-link--region">Burgenland</a>
+1680185981463:</li>
+1680185981464:</ul>
+1680185981465:</li>
+1680185981466:</ul>
+1680185981467:</li>
+1680185981467:<li>
+1680185981470:<a href="/oesterreich/wetter/prognose/" class="nav-main__link--weather">
+1680185981471:Wetter
+1680185981473:</a>
+1680185981474:</li>
+1680185981477:<li><a href="/oesterreich/schneewerte/" class="nav-main__link--snow">Schnee</a></li>
+1680185981478:<li>
+1680185981481:<a href="/oesterreich/unterkuenfte/" class="nav-main__link--accommodation">
+1680185981482:Unterkünfte
+1680185981483:</a>
+1680185981484:</li>
+1680185981485:<li>
+1680185981487:<a href="/angebote/" class="nav-main__link--offers">Angebote</a>
+1680185981489:</li>
+1680185981491:<li><a href="/apps/" class="nav-main__link--apps">Apps</a></li>
+1680185981494:<li><a href="/forum/" class="nav-main__link--forum">Forum</a></li>
+1680185981495:<li>
+1680185981498:<a href="/mybergfex/" class="has-avatar nav-main__link--mybergfex">
+1680185981500:<div class="avatar" >
+1680185981502:</div><span class="nav-main-username">Mein Bergfex</span>
+1680185981504:</a>
+1680185981505:</li>
+1680185981507:<div id="mybergfex"></div>
+1680185981508:</ul>
+1680185981510:</div>
+1680185981512:<div id="dropdown">
+1680185981516:<!-- optional logo in dropdown -->
+1680185981520:<img src="https://vcdn.bergfex.at/images/resized/c5/b9525b645bdaf0c5_c27ac61c0fc6a9a3@2x.png" alt="" width="120" height="30.5" border="0" class="dropdown-logo"/>
+1680185981523:<div class="dropdown-container page-left-margin">
+1680185981525:<div class="dropdown-content"></div>
+1680185981526:<div class="dropdown-close"></div>
+1680185981528:</div>
+1680185981532:</nav><!--/page-top-->
+1680185981534:</div>
+1680185981536:<div id="mapactions">
+1680185981538:<div id="mapaction_enable_big" class="map_enable"></div>
+1680185981540:<div class="mapactions-separator"></div>
+1680185981542:<div class="mapactions-buttons">
+1680185981544:<div id="mapaction_enable" class="map_enable"></div>
+1680185981545:<div id="mapaction_help"></div>
+1680185981548:<div id="mapaction_link"></div>
+1680185981550:<div id="mapaction_up"></div>
+1680185981552:<div id="mapaction_down"></div>
+1680185981554:<div id="mapaction_full"></div>
+1680185981558:<div id="mapaction_close"></div>
+1680185981561:</div>
+1680185981570:<link rel="stylesheet" charset="utf-8" href="//vcdn.bergfex.at/include/cssmin/siteMap-leaflet-006307215b354bf132fbc57284f85600-1679978392.css"/><div id="siteMap" class="leaflet-map" style="height: 430px; position: absolute; visibility: hidden;">
+1680185981573:<div id="siteMapCanvas" style="height: 100%; width: 100%;"></div>
+1680185981582:</div>
+1680185981589:<script type="text/javascript" charset="utf-8" src="//vcdn.bergfex.at/include/jsmin/mapHandler-d0709dcd969417e42485181ebd019707-1678280800.jsmin.js"></script><script>
+1680185981592:var leafletMapOptions = {
+1680185981594:idCanvas: 'siteMapCanvas',
+1680185981595:idContainer: 'siteMap',
+1680185981597:minHeight: 450,
+1680185981599:maxHeight: Math.round($(window).height() * 0.66),
+1680185981600:zoom: 10,
+1680185981602:markerLayers: {
+1680185981603:skigebiete: {
+1680185981604:name: 'Skigebiete'
+1680185981605:},
+1680185981606:langlaufen: {
+1680185981607:name: 'Langlaufen'
+1680185981608:},
+1680185981610:unterkuenfte: {
+1680185981611:name: 'Unterkünfte'
+1680185981613:},
+1680185981615:sommerinfos: {
+1680185981616:name: 'Sommer'
+1680185981618:},
+1680185981620:wandertouren: {
+1680185981622:name: 'Wandertouren'
+1680185981623:},
+1680185981625:alpintouren: {
+1680185981627:name: 'Alpintouren'
+1680185981628:},
+1680185981631:wintertouren: {
+1680185981633:name: 'Wintertouren'
+1680185981635:},
+1680185981636:biketouren: {
+1680185981638:name: 'Biketouren'
+1680185981640:},
+1680185981642:lauftouren: {
+1680185981643:name: 'Lauftouren'
+1680185981645:},
+1680185981646:badeseen: {
+1680185981647:name: 'Badeseen'
+1680185981648:}
+1680185981649:},
+1680185981650:mapTypes: {
+1680185981651:oek: {
+1680185981652:name: 'bergfex OEK',
+1680185981654:title: 'bergfex Österreichische Karte 1:50.000'
+1680185981655:},
+1680185981656:osm: {
+1680185981657:name: 'bergfex OSM',
+1680185981659:title: 'bergfex OpenStreetMap'
+1680185981660:},
+1680185981661:basemap: {
+1680185981663:name: 'Basemap',
+1680185981664:title: 'Basemap Österreich'
+1680185981665:},
+1680185981667:basemapOrtho: {
+1680185981668:name: 'Basemap Orthofoto',
+1680185981670:title: 'Basemap Orthofotos Österreich'
+1680185981671:},
+1680185981672:satellite: {
+1680185981673:name: 'Satellit',
+1680185981674:title: 'Satellit'
+1680185981676:},
+1680185981677:roadmap: {
+1680185981679:name: 'Karte',
+1680185981680:title: 'Karte'
+1680185981682:}
+1680185981683:},
+1680185981684:overlays: {
+1680185981686:slopes: {
+1680185981688:name: 'Hangneigung'
+1680185981690:},
+1680185981692:cycling: {
+1680185981694:name: 'Radrouten'
+1680185981695:}
+1680185981696:},
+1680185981698:controls: {
+1680185981700:mapZoomControl: {
+1680185981703:visible: function()
+1680185981704:{
+1680185981706:return !bergfex.isMobile;
+1680185981707:}
+1680185981708:},
+1680185981709:mapTypeControl: {
+1680185981711:showAsDropDown: function()
+1680185981712:{
+1680185981714:return bergfex.isMobile;
+1680185981715:}
+1680185981716:},
+1680185981718:mapSearchControl: {
+1680185981720:placeholder: 'In der Karte suchen'
+1680185981721:},
+1680185981722:fullScreenControl: {
+1680185981724:visible: function()
+1680185981725:{
+1680185981726:return !bergfex.isMobile;
+1680185981727:},
+1680185981728:title: {
+1680185981730:'false': 'Vollbild',
+1680185981731:'true': 'Vollbild verlassen'
+1680185981733:}
+1680185981734:},
+1680185981735:fullscreenContentControl: {
+1680185981736:i18n: {
+1680185981738:'showContent': 'Inhalt einblenden',
+1680185981740:'hideContent': 'Inhalt ausblenden'
+1680185981741:}
+1680185981742:},
+1680185981743:elevationControl: {
+1680185981744:i18n: {
+1680185981745:uphill: 'Bergauf',
+1680185981747:downhill: 'Bergab',
+1680185981749:length: 'Länge',
+1680185981750:height: 'Höhe'
+1680185981751:}
+1680185981752:},
+1680185981753:osmLegendControl: {
+1680185981755:language: 'de',
+1680185981756:i18n: {
+1680185981757:title: 'Legende'
+1680185981758:}
+1680185981759:},
+1680185981760:oekLegendControl: {
+1680185981761:language: 'de',
+1680185981763:i18n: {
+1680185981764:title: 'Legende'
+1680185981765:}
+1680185981766:},
+1680185981768:basemapLegendControl: {
+1680185981770:language: 'de',
+1680185981772:i18n: {
+1680185981774:title: 'Legende'
+1680185981775:}
+1680185981777:},
+1680185981780:layersDropDownContainer: {
+1680185981783:title: '<strong>Themen</strong> einblenden <div class="layers-icon"></div>'
+1680185981785:}
+1680185981786:};
+1680185981788:$(document).ready(function()
+1680185981789:{
+1680185981793:bergfex.libs.srcLeafletMapLibs = "/include/jsmin/leaflet-map8-f0c0fccb52bd6b70cb8a2dcf12b82600-1678266765.jsmin.js"
+1680185981795:bergfex.MapHandler.init(leafletMapOptions);
+1680185981796:});
+1680185981798:</script><!--page-bottom-->
+1680185981800:<div id="page-container">
+1680185981802:<nav class="breadcrumb mobile-hidden">
+1680185981804:<a href="/oesterreich/" title="Winter Österreich">Winter Österreich</a> /
+1680185981806:<a href="/vorarlberg/" title="Vorarlberg">Vorarlberg</a> /
+1680185981810:<a class="important" href="/sonnenkopf/" title="Skigebiet Sonnenkopf / Klostertal">Skigebiet Sonnenkopf / Klostertal</a>
+1680185981811:</nav>
+1680185981813:<main class="page-left-margin">
+1680185981814:<aside id="nav-side">
+1680185981817:<div class="nav-side-close"></div>
+1680185981818:<div class="logo">
+1680185981822:<img src="https://vcdn.bergfex.at/images/resized/7a/4111f8762a6a537a_9c5877821f39e01b@2x.png" alt="" width="101.5" height="49" border="0"/>
+1680185981823:</div>
+1680185981825:<div class="location">
+1680185981827:<a class="country" href="/oesterreich/">Österreich</a> /
+1680185981829:<a class="region" href="/vorarlberg/">Vorarlberg</a>
+1680185981830:</div>
+1680185981832:<div class="location-map">
+1680185981833:<div class="locationmap">
+1680185981837:<img src="https://vcdn.bergfex.at/images/resized/09/373696facc115c09_98badfb9249b1645@2x.png" alt="" width="129" height="72" border="0"/>
+1680185981838:<a href="/vorarlberg/">
+1680185981842:<img src="https://vcdn.bergfex.at/images/resized/9a/18e2b97221d7d49a_fcfe02b474bfc33c@2x.png" alt="" width="129" height="72" border="0" class="layer"/>
+1680185981843:</a>
+1680185981845:<a class="locationred analytics-location-map-point analytics-location-map-point--"
+1680185981847:href="/vorarlberg/"
+1680185981847:title=""
+1680185981849:style="left: 8.46153846154%; top: 72.2222222222%;"></a>
+1680185981850:</div>
+1680185981851:<ul class="tree">
+1680185981853:<li class="level0   link-skiresort">
+1680185981857:<a href="/sonnenkopf/" title="Sonnenkopf / Klostertal">Sonnenkopf / Klostertal</a>
+1680185981859:</li><li class="level1   link-unterkuenfte">
+1680185981862:<a href="/sonnenkopf/unterkuenfte/" title="Unterkünfte">Unterkünfte</a>
+1680185981864:<div class="totals">38</div></li><li class="level1   link-wetter">
+1680185981866:<a href="/sonnenkopf/wetter/berg/" title="Wetter">Wetter</a>
+1680185981868:</li><li class="level1 selected  link-schneebericht">
+1680185981871:<a href="/sonnenkopf/schneebericht/" title="Schneehöhen">Schneehöhen</a>
+1680185981873:</li><li class="level1  has-count link-webcams">
+1680185981875:<a href="/sonnenkopf/webcams/" title="Webcams">Webcams</a>
+1680185981877:<div class="count">4</div></li><li class="level1   link-preise">
+1680185981881:<a href="/sonnenkopf/preise/" title="Preise Skipässe">Preise Skipässe</a>
+1680185981883:</li><li class="level1   link-sport">
+1680185981887:<a href="/sonnenkopf/sport/" title="Sport &amp; Details">Sport &amp; Details</a>
+1680185981892:</li><li class="level1  has-count link-bilder">
+1680185981897:<a href="/sonnenkopf/bilder/" title="Bilder">Bilder</a>
+1680185981900:<div class="count">33</div></li><li class="level1  has-count link-videos">
+1680185981902:<a href="/sonnenkopf/videos/" title="Videos">Videos</a>
+1680185981905:<div class="count">2</div></li><li class="level1  has-count link-kommentare">
+1680185981908:<a href="/sonnenkopf/kommentare/" title="Kommentare">Kommentare</a>
+1680185981911:<div class="count">3</div></li><li class="level1   link-pauschalangebote">
+1680185981916:<a href="/sonnenkopf/pauschalangebote/" title="Angebote und Pauschalen">Angebote und Pauschalen</a>
+1680185981921:</li><li class="level1  has-count link-skischulen">
+1680185981924:<a href="/sonnenkopf/sportanbieter/_skischule/" title="Skischulen">Skischulen</a>
+1680185981926:<div class="count">1</div></li><li class="level1  has-count link-skiverleih">
+1680185981929:<a href="/sonnenkopf/skiverleih/" title="Skiverleih">Skiverleih</a>
+1680185981932:<div class="count">5</div></li><li class="level1  has-count link-sportanbieter">
+1680185981935:<a href="/sonnenkopf/sportanbieter/" title="Sportanbieter">Sportanbieter</a>
+1680185981938:<div class="count">2</div></li><li class="level0 langlaufen   link-tmp">
+1680185981941:<a href="/vorarlberg/langlaufen/alpenregion-bludenz/" title="Langlaufen">Langlaufen</a>
+1680185981943:</li><li class="level0 snowpark   link-tmp">
+1680185981946:<a href="/snow-parks/funpark-sonnenkopf/" title="Snowpark Sonnenkopf">Snowpark Sonnenkopf</a>
+1680185981948:</li><li class="level0 sommer   link-tmp">
+1680185981951:<a href="/sommer/kloesterle-sonnenkopf/" title="Sommer">Sommer</a>
+1680185981953:</li></ul>
+1680185981956:<ul class="tree info jblocktruncate sidebar-box--neighbors analytics--desktop-ski-resort-neighbors" style="max-height: 200px;">
+1680185981958:<li class="level1 label">
+1680185981959:Nachbarn
+1680185981961:</li>
+1680185981964:<li class="level1"><a href="/kristberg/">Kristbergbahn / Silbertal / Montafon</a> </a></li>
+1680185981967:<li class="level1"><a href="/stuben/">Stuben / Arlberg</a> </a></li>
+1680185981970:<li class="level1"><a href="/lech-zuers-arlberg/">Lech Zürs / Arlberg</a> </a></li>
+1680185981973:<li class="level1"><a href="/silvretta-montafon/">Silvretta Montafon</a> </a></li>
+1680185981976:<li class="level1"><a href="/silvapark-galtuer/">Silvapark Galtür / Paznaun-Ischgl</a> </a></li>
+1680185981978:</ul>
+1680185981982:<ul class="tree info jblocktruncate sidebar-box--statistics-schigebiete analytics--desktop-popular-ski-resorts" style="max-height: 200px;">
+1680185981984:<li class="level1 label">
+1680185981985:Beliebteste Skigebiete
+1680185981987:</li>
+1680185981990:<li class="level1"><a href="/lech-zuers-arlberg/">Lech Zürs / Arlberg</a></li>
+1680185981993:<li class="level1"><a href="/silvretta-montafon/">Silvretta Montafon</a></li>
+1680185981995:<li class="level1"><a href="/warth-schroecken/">Warth / Schröcken am Arlberg</a></li>
+1680185981998:<li class="level1"><a href="/damuels/">Damüls</a></li>
+1680185982001:<li class="level1"><a href="/mellau/">Skischaukel Mellau / Damüls / Faschina</a></li>
+1680185982004:<li class="level1"><a href="/gargellen/">Gargellen / Montafon</a></li>
+1680185982006:<li class="level1"><a href="/sonnenkopf/">Sonnenkopf / Klostertal</a></li>
+1680185982009:<li class="level1"><a href="/brandnertal/">Brandnertal</a></li>
+1680185982011:<li class="level1"><a href="/golm/">Golm / Montafon</a></li>
+1680185982014:<li class="level1"><a href="/boedele/">Bödele / Schwarzenberg</a></li>
+1680185982016:<li class="level1"><a href="/laterns/">Laterns / Gapfohl</a></li>
+1680185982019:<li class="level1"><a href="/stuben/">Stuben / Arlberg</a></li>
+1680185982022:<li class="level1"><a href="/diedamskopf/">Diedamskopf / Schoppernau</a></li>
+1680185982025:<li class="level1"><a href="/kleinwalsertal-kanzelwand/">Kleinwalsertal / Kanzelwand / Fellhorn</a></li>
+1680185982028:<li class="level1"><a href="/walmendingerhorn-ifen-heuberg/">Walmendingerhorn / Ifen / Heuberg</a></li>
+1680185982031:<li class="level1"><a href="/faschina/">Faschina / Fontanella</a></li>
+1680185982033:<li class="level1"><a href="/kristberg/">Kristbergbahn / Silbertal / Montafon</a></li>
+1680185982037:<li class="level1"><a href="/pfaenderbahn/">Pfänderbahn / Bregenz am Bodensee</a></li>
+1680185982040:<li class="level1"><a href="/silvretta-bielerhoehe/">Silvretta Bielerhöhe / Vermuntbahn / Montafon</a></li>
+1680185982044:<li class="level1"><a href="/hochhaederich/">Alpenarena Hochhäderich / Hittisau / Riefensberg</a></li>
+1680185982045:</ul>
+1680185982046:<div style="text-align: center; ">
+1680185982051:<a href="/redirect/f258b4/1231/0/1/https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdeveloper%3Fid%3Dbergfex%2BGmbH"
+1680185982053:title="Android Apps"
+1680185982054:target="_blank"
+1680185982056:class="app-badge googleplay-badge de analytics-desktop-googleplay">
+1680185982057:</a>
+1680185982060:<a href="/redirect/e29ab4/1230/0/1/https%3A%2F%2Fapps.apple.com%2Fat%2Fdeveloper%2Fbergfex-gmbh%2Fid355025018"
+1680185982062:title="iPhone Apps"
+1680185982063:target="_blank"
+1680185982065:class="app-badge appstore-badge de analytics-desktop-appstore"></a>
+1680185982066:</div>
+1680185982067:<script>
+1680185982069:$(document).ready(function() {
+1680185982070:if($.browser){
+1680185982071:if ($.browser.isIOS) {
+1680185982073:$(".googleplay-badge").hide();
+1680185982074:$(".appstore-badge").addClass("big-badge");
+1680185982076:} else if ($.browser.isAndroid) {
+1680185982078:$(".appstore-badge").hide();
+1680185982080:$(".googleplay-badge").addClass("big-badge");
+1680185982081:}
+1680185982083:});
+1680185982085:</script></aside>
+1680185982088:<div class="content type-skigebiet season-winter" id="detail"><div class="section-left">
+1680185982089:<header>
+1680185982091:<div class="-tw-mt-4 sm:tw-hidden">
+1680185982095:<a href="/sonnenkopf/" class="tw-flex !tw-no-underline tw-items-center !tw-text-brand-black tw-text-s tw-py-2 tw-w-max">
+1680185982097:<i class="icon-bread-arrow tw-text-12px tw-mr-2"></i> Skigebiet Sonnenkopf / Klostertal
+1680185982099:</a>
+1680185982100:</div>
+1680185982102:<div class="tw-content-menu-slider tw-mb-5 -tw-mx-4 xs:-tw-mx-6 sm:tw-mx-0 sm:tw-hidden">
+1680185982104:<div class="tw-relative">
+1680185982107:<div class="tw-overflow-hidden tw-z-20 tw-flex tw-items-center tw-justify-between js-contentmenu__slider splide">
+1680185982110:<div class="splide__track !tw-static tw-w-full !tw-px-4 xs:!tw-pl-6 sm:!tw-pl-4">
+1680185982111:<ul class="splide__list">
+1680185982114:<li class="link-skiresort--contentmenu !tw-static splide__slide ">
+1680185982116:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982121:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-skiresort  !tw-text-black"
+1680185982122:href="/sonnenkopf/"
+1680185982123:data-id="skiresort"
+1680185982125:title="Übersicht">
+1680185982126:Übersicht
+1680185982127:</a>
+1680185982127:</div>
+1680185982128:</li>
+1680185982131:<li class="link-unterkuenfte--contentmenu !tw-static splide__slide ">
+1680185982133:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982137:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-unterkuenfte  !tw-text-black"
+1680185982139:href="/sonnenkopf/unterkuenfte/"
+1680185982141:data-id="unterkuenfte"
+1680185982143:title="Unterkünfte">
+1680185982145:Unterkünfte
+1680185982147:</a>
+1680185982150:</div>
+1680185982151:</li>
+1680185982154:<li class="link-wetter--contentmenu !tw-static splide__slide ">
+1680185982157:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982167:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-wetter  !tw-text-black"
+1680185982176:href="/sonnenkopf/wetter/berg/"
+1680185982178:data-id="wetter"
+1680185982182:title="Wetter">
+1680185982184:Wetter
+1680185982186:</a>
+1680185982188:</div>
+1680185982189:</li>
+1680185982192:<li class="link-schneebericht--contentmenu !tw-static splide__slide js-slide-active">
+1680185982195:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982203:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-schneebericht  !tw-text-brand-dark tw-relative after:tw-content-[''] after:tw-absolute after:tw-w-full after:tw-left-0 after:tw-bottom-0 after:tw-h-0.5 after:tw-bg-brand-dark tw-pointer-events-none"
+1680185982205:href="/sonnenkopf/schneebericht/"
+1680185982227:data-id="schneebericht"
+1680185982231:title="Schneehöhen">
+1680185982233:Schneehöhen
+1680185982234:</a>
+1680185982236:</div>
+1680185982238:</li>
+1680185982241:<li class="link-webcams--contentmenu !tw-static splide__slide ">
+1680185982243:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982247:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-webcams  !tw-text-black"
+1680185982249:href="/sonnenkopf/webcams/"
+1680185982250:data-id="webcams"
+1680185982252:title="Webcams">
+1680185982253:Webcams
+1680185982254:</a>
+1680185982254:</div>
+1680185982256:</li>
+1680185982258:<li class="link-preise--contentmenu !tw-static splide__slide ">
+1680185982260:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982264:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-preise  !tw-text-black"
+1680185982266:href="/sonnenkopf/preise/"
+1680185982267:data-id="preise"
+1680185982269:title="Preise Skipässe">
+1680185982271:Preise Skipässe
+1680185982272:</a>
+1680185982274:</div>
+1680185982275:</li>
+1680185982276:<li class="link-sport--contentmenu !tw-static splide__slide ">
+1680185982279:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982282:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-sport  !tw-text-black"
+1680185982285:href="/sonnenkopf/sport/"
+1680185982286:data-id="sport"
+1680185982288:title="Sport &amp; Details">
+1680185982289:Sport
+1680185982291:</a>
+1680185982292:</div>
+1680185982293:</li>
+1680185982296:<li class="link-bilder--contentmenu !tw-static splide__slide ">
+1680185982298:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982303:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-bilder  !tw-text-black"
+1680185982304:href="/sonnenkopf/bilder/"
+1680185982306:data-id="bilder"
+1680185982308:title="Bildgalerie">
+1680185982309:Bilder
+1680185982311:</a>
+1680185982313:</div>
+1680185982319:</li>
+1680185982321:<li class="link-videos--contentmenu !tw-static splide__slide ">
+1680185982324:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982328:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-videos  !tw-text-black"
+1680185982330:href="/sonnenkopf/videos/"
+1680185982332:data-id="videos"
+1680185982335:title="Videos">
+1680185982336:Videos
+1680185982337:</a>
+1680185982338:</div>
+1680185982339:</li>
+1680185982342:<li class="link-kommentare--contentmenu !tw-static splide__slide ">
+1680185982344:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982348:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-kommentare  !tw-text-black"
+1680185982350:href="/sonnenkopf/kommentare/"
+1680185982351:data-id="kommentare"
+1680185982353:title="Kommentare und Diskussionen">
+1680185982354:Kommentare
+1680185982355:</a>
+1680185982356:</div>
+1680185982357:</li>
+1680185982360:<li class="link-pauschalangebote--contentmenu !tw-static splide__slide ">
+1680185982363:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982367:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-pauschalangebote  !tw-text-black"
+1680185982369:href="/sonnenkopf/pauschalangebote/"
+1680185982371:data-id="pauschalangebote"
+1680185982373:title="Angebote und Pauschalen">
+1680185982374:Angebote
+1680185982375:</a>
+1680185982376:</div>
+1680185982377:</li>
+1680185982379:<li class="link-skischulen--contentmenu !tw-static splide__slide ">
+1680185982381:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982384:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-skischulen  !tw-text-black"
+1680185982386:href="/sonnenkopf/sportanbieter/_skischule/"
+1680185982387:data-id="skischulen"
+1680185982388:title="Skischulen">
+1680185982389:Skischulen
+1680185982390:</a>
+1680185982391:</div>
+1680185982391:</li>
+1680185982394:<li class="link-skiverleih--contentmenu !tw-static splide__slide ">
+1680185982397:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982401:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-skiverleih  !tw-text-black"
+1680185982403:href="/sonnenkopf/skiverleih/"
+1680185982404:data-id="skiverleih"
+1680185982406:title="Skiverleih">
+1680185982407:Skiverleih
+1680185982409:</a>
+1680185982410:</div>
+1680185982413:</li>
+1680185982416:<li class="link-sportanbieter--contentmenu !tw-static splide__slide ">
+1680185982418:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982421:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-sportanbieter  !tw-text-black"
+1680185982423:href="/sonnenkopf/sportanbieter/"
+1680185982425:data-id="sportanbieter"
+1680185982427:title="Sportanbieter">
+1680185982429:Sportanbieter
+1680185982430:</a>
+1680185982432:</div>
+1680185982433:</li>
+1680185982435:<li class="link-crosscountry-skiing--contentmenu !tw-static splide__slide ">
+1680185982437:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982442:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-crosscountry-skiing  !tw-text-black"
+1680185982445:href="/vorarlberg/langlaufen/alpenregion-bludenz/"
+1680185982447:data-id="crosscountry-skiing"
+1680185982449:title="Langlaufen">
+1680185982451:Langlaufen
+1680185982453:</a>
+1680185982455:</div>
+1680185982457:</li>
+1680185982459:<li class="link-snowpark--contentmenu !tw-static splide__slide ">
+1680185982461:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982465:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-snowpark  !tw-text-black"
+1680185982468:href="/snow-parks/funpark-sonnenkopf/"
+1680185982469:data-id="snowpark"
+1680185982472:title="Snowpark">
+1680185982473:Snowpark
+1680185982475:</a>
+1680185982476:</div>
+1680185982477:</li>
+1680185982480:<li class="link-summer--contentmenu !tw-static splide__slide ">
+1680185982487:<div class="tw-text-base tw-leading-20 tw-font-bold">
+1680185982501:<a class="tw-content-menu-item tw-flex tw-py-4 tw-px-2 hover:tw-text-brand-dark !tw-no-underline link-summer  !tw-text-black"
+1680185982506:href="/sommer/kloesterle-sonnenkopf/"
+1680185982507:data-id="summer"
+1680185982509:title="Sommer">
+1680185982510:Sommer
+1680185982511:</a>
+1680185982512:</div>
+1680185982513:</li>
+1680185982517:</ul>
+1680185982520:</div>
+1680185982522:<div class="splide__arrows">
+1680185982524:<button class="splide__arrow splide__arrow--prev tw-hidden">
+1680185982525:</button>
+1680185982530:<button class="splide__arrow splide__arrow--next tw-ml-4 tw-mr-4 xs:tw-mr-6 sm:tw-mr-4 tw-w-7 tw-h-7 tw-rounded-lg tw-bg-white tw-border tw-border-solid tw-border-brand-gray-40 tw-flex tw-justify-center tw-items-center">
+1680185982532:<i class="icon-chevron-right"></i>
+1680185982533:</button>
+1680185982534:</div>
+1680185982538:<a href="#" class="js-contentmenu__dropdown-trigger tw-block lg:tw-hidden tw-pl-5 tw-text-black tw-relative tw-pr-4 xs:tw-pr-6 sm:tw-pr-4 !tw-no-underline" >
+1680185982542:<div class="tw-absolute tw-pointer-events-none tw-inset-y-0.5 -tw-left-4 tw-ml-px tw-w-4 tw-bg-gradient-to-l tw-from-white tw-to-transparent"></div>
+1680185982546:<div class="tw-w-7 tw-h-7 tw-bg-white tw-rounded-lg tw-border tw-border-solid tw-border-brand-gray-40 tw-flex tw-justify-center tw-items-center tw-text-8px">
+1680185982547:<i class="icon-arrow-down"></i>
+1680185982548:</div>
+1680185982549:</a>
+1680185982551:</div>
+1680185982553:<div class="tw-bottom-0 tw-left-0 tw-h-px tw-absolute tw-w-full tw-bg-brand-gray-40 tw-z-0"></div>
+1680185982557:<div class="tw-absolute tw-pointer-events-none tw-inset-y-0.5 tw-left-0 tw-z-20 tw-w-4 tw-bg-gradient-to-r tw-from-white tw-to-transparent"></div>
+1680185982561:<div class="tw-absolute tw-pointer-events-none tw-inset-y-0.5 tw-right-0 tw-z-20 tw-w-4 tw-bg-gradient-to-l tw-from-white tw-to-transparent"></div>
+1680185982562:</div>
+1680185982564:<div class="tw-content-menu-dropdown js-contentmenu__dropdown tw-group">
+1680185982569:<div class="js-contentmenu__dropdown-trigger tw-absolute tw-opacity-0 group-[.is-open]:tw-opacity-100 tw-transition-all tw-inset-0 -tw-z-10 tw-backdrop-blur-xs tw-bg-brand-black/50"></div>
+1680185982574:<div class="js-contentmenu__dropdown-menu tw-box-border tw-absolute tw-transition-all -tw-bottom-full group-[.is-open]:tw-bottom-0 tw-max-h-[calc(100%_-_8rem)] tw-w-full tw-py-4 tw-left-0 tw-bg-white tw-rounded-t-2xl tw-overflow-auto">
+1680185982578:<ul class="tw-list-none tw-p-0 tw-m-0 tw-text-base tw-leading-20">
+1680185982580:<li class="link-skiresort--contentmenu-dropdown">
+1680185982584:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982585:href="/sonnenkopf/">
+1680185982587:Übersicht</a></li>
+1680185982588:<li class="link-unterkuenfte--contentmenu-dropdown">
+1680185982592:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982593:href="/sonnenkopf/unterkuenfte/">
+1680185982594:Unterkünfte</a></li>
+1680185982597:<li class="link-wetter--contentmenu-dropdown">
+1680185982601:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982602:href="/sonnenkopf/wetter/berg/">
+1680185982603:Wetter</a></li>
+1680185982605:<li class="link-schneebericht--contentmenu-dropdown">
+1680185982611:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-dark js-contentmenu__dropdown-trigger tw-border-0 tw-border-l-2 -tw-indent-1 tw-border-solid tw-border-brand-dark "
+1680185982612:href="/sonnenkopf/schneebericht/">
+1680185982614:Schneehöhen</a></li>
+1680185982615:<li class="link-webcams--contentmenu-dropdown">
+1680185982619:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982620:href="/sonnenkopf/webcams/">
+1680185982621:Webcams</a></li>
+1680185982623:<li class="link-preise--contentmenu-dropdown">
+1680185982626:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982627:href="/sonnenkopf/preise/">
+1680185982628:Preise Skipässe</a></li>
+1680185982630:<li class="link-sport--contentmenu-dropdown">
+1680185982633:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982635:href="/sonnenkopf/sport/">
+1680185982636:Sport &amp; Details</a></li>
+1680185982638:<li class="link-bilder--contentmenu-dropdown">
+1680185982641:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982643:href="/sonnenkopf/bilder/">
+1680185982644:Bildgalerie</a></li>
+1680185982646:<li class="link-videos--contentmenu-dropdown">
+1680185982650:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982651:href="/sonnenkopf/videos/">
+1680185982652:Videos</a></li>
+1680185982654:<li class="link-kommentare--contentmenu-dropdown">
+1680185982657:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982659:href="/sonnenkopf/kommentare/">
+1680185982661:Kommentare und Diskussionen</a></li>
+1680185982663:<li class="link-pauschalangebote--contentmenu-dropdown">
+1680185982669:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982671:href="/sonnenkopf/pauschalangebote/">
+1680185982674:Angebote und Pauschalen</a></li>
+1680185982676:<li class="link-skischulen--contentmenu-dropdown">
+1680185982681:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982683:href="/sonnenkopf/sportanbieter/_skischule/">
+1680185982684:Skischulen</a></li>
+1680185982686:<li class="link-skiverleih--contentmenu-dropdown">
+1680185982689:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982692:href="/sonnenkopf/skiverleih/">
+1680185982696:Skiverleih</a></li>
+1680185982698:<li class="link-sportanbieter--contentmenu-dropdown">
+1680185982702:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982704:href="/sonnenkopf/sportanbieter/">
+1680185982705:Sportanbieter</a></li>
+1680185982707:<li class="link-crosscountry-skiing--contentmenu-dropdown">
+1680185982711:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982713:href="/vorarlberg/langlaufen/alpenregion-bludenz/">
+1680185982715:Langlaufen</a></li>
+1680185982717:<li class="link-snowpark--contentmenu-dropdown">
+1680185982721:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982723:href="/snow-parks/funpark-sonnenkopf/">
+1680185982725:Snowpark</a></li>
+1680185982727:<li class="link-summer--contentmenu-dropdown">
+1680185982732:<a class="tw-peer tw-group/item tw-flex tw-justify-between tw-items-center tw-py-2.5 tw-font-bold !tw-no-underline  tw-px-4 !tw-text-brand-black"
+1680185982734:href="/sommer/kloesterle-sonnenkopf/">
+1680185982736:Sommer</a></li>
+1680185982737:</ul>
+1680185982739:</div>
+1680185982742:<div class="logo mobile-only">
+1680185982746:<img src="https://vcdn.bergfex.at/images/resized/7a/4111f8762a6a537a_9c5877821f39e01b@2x.png" alt="" width="101.5" height="49" border="0"/>
+1680185982748:</div>
+1680185982750:<h1><span class="less-important">Schneebericht</span> Sonnenkopf / Klostertal
+1680185982752:</h1><div class="buttons">
+1680185982753:<div id="btn-map-show"
+1680185982756:class="desktop-only button-small button-small-icon button-small-icon-down analytics-map-open">
+1680185982758:Karte
+1680185982759:</div>
+1680185982761:<div id="btn-map-hide"
+1680185982768:class="desktop-only button-small button-dark-grey button-small-icon button-small-icon-up analytics-map-close">
+1680185982771:Karte ausblenden
+1680185982772:</div>
+1680185982774:<div class="clearer"></div>
+1680185982776:</header><div class="heading heading-ne desktop-only" style="position: absolute;">
+1680185982779:<div class="h1"><span>120 cm</span></div>
+1680185982781:<div class="h3"><span>Heute, 09:05</span></div>
+1680185982782:</div>
+1680185982783:<hr/>
+1680185982786:<h2 class="desktop-only h2-hasSnowReportEmblem">Schneehöhen &amp; Schneeverhältnisse</h2>
+1680185982787:<div class="desktop-only h2-sub">Heute, 09:05</div>
+1680185982789:<dl class="dl-horizontal dt-large">
+1680185982791:<dt class="desktop-hidden">Schneebericht</dt>
+1680185982792:<dd class="desktop-hidden">Heute, 09:05</dd>
+1680185982795:<dt class="big">Berg <span class="less-important">(Piste, 1.840m)</span></dt>
+1680185982796:<dd class="big">
+1680185982797:120 cm</dd>
+1680185982798:<dt class="big">
+1680185982800:Tal <span class="less-important">(Piste, 1.000m)</span></dt>
+1680185982802:<dd class="big">10 cm</dd>
+1680185982804:<dt class="big">Schneehöhe Ort <span class="less-important">(1.000m)</span></dt>
+1680185982805:<dd class="big">10 cm
+1680185982806:</dd>
+1680185982807:<dt>Schneezustand</dt>
+1680185982808:<dd>
+1680185982809:keine Meldung</dd>
+1680185982810:<dt>Letzter Schneefall Region</dt>
+1680185982812:<dd>Di, 28.03. - Tal: Mo, 27.03.
+1680185982812:<br/>
+1680185982813:Ort: Mo, 27.03.
+1680185982814:</dd>
+1680185982815:<dt>Lawinenwarnstufe</dt>
+1680185982817:<dd>keine Meldung<br/>
+1680185982818:<a class="linked"
+1680185982821:href="/redirect/9c1b0c/14/8/http%3A%2F%2Fwww.vorarlberg.at%2Flawine%2F"
+1680185982822:target="_blank">
+1680185982823:Lawinenwarndienst
+1680185982824:</a>
+1680185982825:</dd>
+1680185982825:</dl>
+1680185982826:<hr/>
+1680185982828:<h2>Schneevorhersage <span class="less-important">Vorarlberg</span></h2>
+1680185982830:<div class="snowforecast-daily-thumbnails grid cols6 cols-margin-4">
+1680185982833:<div class="col clickable" title="Donnerstag, 30.03.2023">
+1680185982835:<div class="snowforecast-thumbnail selected">
+1680185982836:<div class="weekday">
+1680185982837:Do
+1680185982837:</div>
+1680185982839:<a href="/vorarlberg/wetter/schneevorhersage/0/">
+1680185982842:<img src="https://vcdn.bergfex.at/images/resized/9c/dc8ba3b6cf19ef9c_16ce5400a6023fa3@2x.jpg" alt="" width="80" height="50" border="0" id="8"/>
+1680185982843:</a>
+1680185982844:</div>
+1680185982846:<div class="col clickable" title="Freitag, 31.03.2023">
+1680185982847:<div class="snowforecast-thumbnail ">
+1680185982848:<div class="weekday">
+1680185982849:Fr
+1680185982850:</div>
+1680185982851:<a href="/vorarlberg/wetter/schneevorhersage/1/">
+1680185982854:<img src="https://vcdn.bergfex.at/images/resized/90/158797047fa84690_2bc3b23c59739a99@2x.jpg" alt="" width="80" height="50" border="0" id="8"/>
+1680185982855:</a>
+1680185982856:</div>
+1680185982858:<div class="col clickable" title="Samstag, 01.04.2023">
+1680185982860:<div class="snowforecast-thumbnail ">
+1680185982862:<div class="weekday">
+1680185982862:Sa
+1680185982863:</div>
+1680185982865:<a href="/vorarlberg/wetter/schneevorhersage/2/">
+1680185982868:<img src="https://vcdn.bergfex.at/images/resized/c3/534d2838740cb7c3_a684c8187f78054b@2x.jpg" alt="" width="80" height="50" border="0" id="8"/>
+1680185982869:</a>
+1680185982870:</div>
+1680185982872:<div class="col clickable" title="Sonntag, 02.04.2023">
+1680185982873:<div class="snowforecast-thumbnail ">
+1680185982874:<div class="weekday">
+1680185982875:So
+1680185982876:</div>
+1680185982877:<a href="/vorarlberg/wetter/schneevorhersage/3/">
+1680185982880:<img src="https://vcdn.bergfex.at/images/resized/80/e7c79e9273d78a80_cb4ca14c1a53ddc1@2x.jpg" alt="" width="80" height="50" border="0" id="8"/>
+1680185982881:</a>
+1680185982882:</div>
+1680185982884:<div class="col clickable" title="Montag, 03.04.2023">
+1680185982886:<div class="snowforecast-thumbnail ">
+1680185982887:<div class="weekday">
+1680185982888:Mo
+1680185982889:</div>
+1680185982892:<a href="/vorarlberg/wetter/schneevorhersage/4/">
+1680185982894:<img src="https://vcdn.bergfex.at/images/resized/5b/adfd576907fe665b_dffbda374f170d89@2x.jpg" alt="" width="80" height="50" border="0" id="8"/>
+1680185982898:</a>
+1680185982900:</div>
+1680185982902:<div class="col clickable" title="Dienstag, 04.04.2023">
+1680185982904:<div class="snowforecast-thumbnail ">
+1680185982905:<div class="weekday">
+1680185982906:Di
+1680185982907:</div>
+1680185982909:<a href="/vorarlberg/wetter/schneevorhersage/5/">
+1680185982912:<img src="https://vcdn.bergfex.at/images/resized/11/2f286c6e1a5da511_d188079c6d079325@2x.jpg" alt="" width="80" height="50" border="0" id="8"/>
+1680185982913:</a>
+1680185982914:</div>
+1680185982915:<hr/>
+1680185982916:<h2>Pisten und Lifte</h2>
+1680185982918:<dl class="dl-horizontal dt-large">
+1680185982919:<dt>Betrieb</dt>
+1680185982920:<dd>täglich</dd>
+1680185982921:<dt></dd>
+1680185982923:<dd>Die Betriebszeiten sind täglich von 8:45 Uhr bis 16:00 Uhr.</dd>
+1680185982924:<dt>Pistenzustand</dt>
+1680185982925:<dd>sehr gut</dd>
+1680185982927:<dt>Offene Lifte</dt>
+1680185982931:<dd class="big">7  <span class="default-size">von 9</span><div title="Offene Lifte" class="status100 status-lifte" >
+1680185982933:<div class="index" style="width: 77.7777777778%;"></div>
+1680185982934:</div>
+1680185982935:</dd>
+1680185982937:<dt>Offene Pisten</dt>
+1680185982938:<dd class="big">
+1680185982939:17,3 km
+1680185982942:<span class="default-size">von 31,6 km</span><div title="Offene Pisten" class="status100 status-lifte" >
+1680185982944:<div class="index" style="width: 54.746835443%;"></div>
+1680185982945:</div>
+1680185982946:</dd>
+1680185982947:<dd class="big">
+1680185982947:14
+1680185982950:<span class="default-size">von 22</span><div title="Offene Pisten" class="status100 status-lifte" >
+1680185982952:<div class="index" style="width: 63.6363636364%;"></div>
+1680185982952:</div>
+1680185982953:</dd>
+1680185982954:<dt>Talabfahrt</dt>
+1680185982955:<dd>bis zur Mittelstation</dd>
+1680185982956:<dd>0
+1680185982959:<div title="Offene Talabfahrten" class="status100 status-lifte" >
+1680185982961:<div class="index" style="width: 0%;"></div>
+1680185982962:</div>
+1680185982963:</dd>
+1680185982964:<dt>Rodelbahn</dt>
+1680185982965:<dd>geschlossen</dd>
+1680185982966:</dl>
+1680185982966:<div>
+1680185982968:<a href="/sonnenkopf/wetter/" class="link-important">
+1680185982971:9-Tage Wetterprognose Sonnenkopf /...
+1680185982972:</a>
+1680185982973:</div>
+1680185982974:<hr/>
+1680185982975:<h2>Lifte</h2>
+1680185982976:<div class="h2-sub">vor 6 Stunden</div><div class="content-block">
+1680185982979:<table class="status-table" cellpadding="0" cellspacing="0" border="0">
+1680185982979:<thead>
+1680185982980:<tr>
+1680185982981:<th class="lifte-icon-status">Betrieb</th>
+1680185982983:<th class="lifte-name" colspan="2">Lift</th>
+1680185982984:<th class="lifte-typname">Typ</th>
+1680185982986:<th class="lifte-laenge">Länge</th>
+1680185982986:</tr>
+1680185982987:</thead>
+1680185982988:<tbody>
+1680185982989:<tr class="row0">
+1680185982990:<td class="lifte-icon-status status-icons">
+1680185982992:<i class="icon-status icon-status1"></i>
+1680185982993:<i class="icon-lifte icon-lifte9" title="Gondelbahn"></i>
+1680185982994:</td>
+1680185982995:<td class="lifte-kuerzel"></td>
+1680185982996:<td class="lifte-name">
+1680185982997:Talstation Sonnenkopf
+1680185982998:</td>
+1680185982999:<td class="lifte-typname">Gondelbahn</td>
+1680185983001:<td class="lifte-laenge">-</td>
+1680185983001:</tr>
+1680185983002:<tr class="row1">
+1680185983004:<td class="lifte-icon-status status-icons">
+1680185983005:<i class="icon-status icon-status0"></i>
+1680185983007:<i class="icon-lifte icon-lifte3" title="2-Sesselbahn"></i>
+1680185983007:</td>
+1680185983009:<td class="lifte-kuerzel"></td>
+1680185983010:<td class="lifte-name">
+1680185983011:Doppelsesselbahn Glattingrat
+1680185983012:</td>
+1680185983013:<td class="lifte-typname">2-Sesselbahn</td>
+1680185983014:<td class="lifte-laenge">-</td>
+1680185983015:</tr>
+1680185983016:<tr class="row0">
+1680185983017:<td class="lifte-icon-status status-icons">
+1680185983018:<i class="icon-status icon-status1"></i>
+1680185983020:<i class="icon-lifte icon-lifte5" title="4-Sesselbahn"></i>
+1680185983021:</td>
+1680185983022:<td class="lifte-kuerzel"></td>
+1680185983023:<td class="lifte-name">
+1680185983024:4er-Sesselbahn Obermuri
+1680185983025:</td>
+1680185983026:<td class="lifte-typname">4-Sesselbahn</td>
+1680185983028:<td class="lifte-laenge">-</td>
+1680185983029:</tr>
+1680185983030:<tr class="row1">
+1680185983031:<td class="lifte-icon-status status-icons">
+1680185983033:<i class="icon-status icon-status1"></i>
+1680185983035:<i class="icon-lifte icon-lifte1" title="Schlepplift"></i>
+1680185983035:</td>
+1680185983037:<td class="lifte-kuerzel"></td>
+1680185983038:<td class="lifte-name">
+1680185983039:Schlepplift Riedboden
+1680185983040:</td>
+1680185983041:<td class="lifte-typname">Schlepplift</td>
+1680185983043:<td class="lifte-laenge">-</td>
+1680185983044:</tr>
+1680185983045:<tr class="row0">
+1680185983046:<td class="lifte-icon-status status-icons">
+1680185983048:<i class="icon-status icon-status1"></i>
+1680185983050:<i class="icon-lifte icon-lifte5" title="4-Sesselbahn"></i>
+1680185983051:</td>
+1680185983053:<td class="lifte-kuerzel"></td>
+1680185983054:<td class="lifte-name">
+1680185983055:4er-Sesselbahn Riedkopf
+1680185983056:</td>
+1680185983058:<td class="lifte-typname">4-Sesselbahn</td>
+1680185983059:<td class="lifte-laenge">-</td>
+1680185983060:</tr>
+1680185983061:<tr class="row1">
+1680185983063:<td class="lifte-icon-status status-icons">
+1680185983065:<i class="icon-status icon-status0"></i>
+1680185983067:<i class="icon-lifte icon-lifte3" title="2-Sesselbahn"></i>
+1680185983068:</td>
+1680185983069:<td class="lifte-kuerzel"></td>
+1680185983071:<td class="lifte-name">
+1680185983072:Doppelsesselbahn Obermoos
+1680185983073:</td>
+1680185983074:<td class="lifte-typname">2-Sesselbahn</td>
+1680185983076:<td class="lifte-laenge">-</td>
+1680185983077:</tr>
+1680185983078:<tr class="row0">
+1680185983079:<td class="lifte-icon-status status-icons">
+1680185983081:<i class="icon-status icon-status1"></i>
+1680185983082:<i class="icon-lifte icon-lifte1" title="Schlepplift"></i>
+1680185983083:</td>
+1680185983084:<td class="lifte-kuerzel"></td>
+1680185983086:<td class="lifte-name">
+1680185983110:Schlepplift Bettlerälpele
+1680185983112:</td>
+1680185983115:<td class="lifte-typname">Schlepplift</td>
+1680185983117:<td class="lifte-laenge">-</td>
+1680185983120:</tr>
+1680185983121:<tr class="row1">
+1680185983123:<td class="lifte-icon-status status-icons">
+1680185983125:<i class="icon-status icon-status1"></i>
+1680185983127:<i class="icon-lifte icon-lifte1" title="Schlepplift"></i>
+1680185983130:</td>
+1680185983133:<td class="lifte-kuerzel"></td>
+1680185983135:<td class="lifte-name">
+1680185983137:Schlepplift Sattelkopf
+1680185983138:</td>
+1680185983140:<td class="lifte-typname">Schlepplift</td>
+1680185983141:<td class="lifte-laenge">-</td>
+1680185983143:</tr>
+1680185983144:<tr class="row0">
+1680185983146:<td class="lifte-icon-status status-icons">
+1680185983149:<i class="icon-status icon-status1"></i>
+1680185983152:<i class="icon-lifte icon-lifte11" title="Seillift"></i>
+1680185983153:</td>
+1680185983155:<td class="lifte-kuerzel"></td>
+1680185983157:<td class="lifte-name">
+1680185983158:Verbindungslift
+1680185983159:</td>
+1680185983161:<td class="lifte-typname">Seillift</td>
+1680185983164:<td class="lifte-laenge">-</td>
+1680185983167:</tr>
+1680185983169:</tbody>
+1680185983170:</table>
+1680185983171:</div>
+1680185983172:<hr/>
+1680185983173:<h2>Pisten</h2>
+1680185983175:<div class="h2-sub">vor 6 Stunden</div><div class="content-block">
+1680185983178:<table class="status-table" cellpadding="0" cellspacing="0" border="0">
+1680185983180:<thead>
+1680185983182:<tr>
+1680185983184:<th class="pisten-icon-status">Betrieb</th>
+1680185983186:<th class="pisten-name" colspan="2">Piste</th>
+1680185983188:<th class="pisten-laenge" nowrap>Länge</th>
+1680185983189:</tr>
+1680185983190:</thead>
+1680185983191:<tbody>
+1680185983192:<tr class="row1">
+1680185983194:<td class="pisten-icon-status status-icons">
+1680185983198:<i class="icon-status icon-status1"></i>
+1680185983201:<i class="icon-pisten icon-pisten1" title="leicht"></i>
+1680185983202:</td>
+1680185983204:<td class="pisten-kuerzel">1</td>
+1680185983205:<td class="pisten-name">
+1680185983207:Waldabfahrt
+1680185983208:</td>
+1680185983209:<td class="pisten-laenge">2.500 m</td>
+1680185983213:</tr>
+1680185983217:<tr class="row0">
+1680185983219:<td class="pisten-icon-status status-icons">
+1680185983221:<i class="icon-status icon-status0"></i>
+1680185983223:<i class="icon-pisten icon-pisten1" title="leicht"></i>
+1680185983224:</td>
+1680185983228:<td class="pisten-kuerzel">1a</td>
+1680185983232:<td class="pisten-name">
+1680185983234:Talabfahrt
+1680185983235:</td>
+1680185983237:<td class="pisten-laenge">4.000 m</td>
+1680185983238:</tr>
+1680185983240:<tr class="row1">
+1680185983241:<td class="pisten-icon-status status-icons">
+1680185983244:<i class="icon-status icon-status1"></i>
+1680185983246:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983249:</td>
+1680185983251:<td class="pisten-kuerzel">2</td>
+1680185983252:<td class="pisten-name">
+1680185983253:Mittlere Muriabfahrt
+1680185983254:</td>
+1680185983256:<td class="pisten-laenge">2.000 m</td>
+1680185983256:</tr>
+1680185983257:<tr class="row0">
+1680185983259:<td class="pisten-icon-status status-icons">
+1680185983261:<i class="icon-status icon-status1"></i>
+1680185983263:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983264:</td>
+1680185983266:<td class="pisten-kuerzel">3</td>
+1680185983268:<td class="pisten-name">
+1680185983269:Hintere Muriabfahrt
+1680185983271:</td>
+1680185983272:<td class="pisten-laenge">2.000 m</td>
+1680185983273:</tr>
+1680185983274:<tr class="row1">
+1680185983276:<td class="pisten-icon-status status-icons">
+1680185983277:<i class="icon-status icon-status1"></i>
+1680185983279:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983280:</td>
+1680185983282:<td class="pisten-kuerzel">3a</td>
+1680185983283:<td class="pisten-name">
+1680185983284:Verbindung Glattingratbahn
+1680185983284:</td>
+1680185983286:<td class="pisten-laenge">800 m</td>
+1680185983287:</tr>
+1680185983287:<tr class="row0">
+1680185983289:<td class="pisten-icon-status status-icons">
+1680185983290:<i class="icon-status icon-status0"></i>
+1680185983292:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983293:</td>
+1680185983294:<td class="pisten-kuerzel">4a</td>
+1680185983295:<td class="pisten-name">
+1680185983297:Abfahrt Vermalen Talstation
+1680185983298:</td>
+1680185983300:<td class="pisten-laenge">4.200 m</td>
+1680185983301:</tr>
+1680185983302:<tr class="row1">
+1680185983303:<td class="pisten-icon-status status-icons">
+1680185983305:<i class="icon-status icon-status0"></i>
+1680185983307:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983307:</td>
+1680185983309:<td class="pisten-kuerzel">4</td>
+1680185983310:<td class="pisten-name">
+1680185983311:Abfahrt Vermalen Obermoos
+1680185983312:</td>
+1680185983313:<td class="pisten-laenge">1.900 m</td>
+1680185983314:</tr>
+1680185983314:<tr class="row0">
+1680185983316:<td class="pisten-icon-status status-icons">
+1680185983317:<i class="icon-status icon-status1"></i>
+1680185983319:<i class="icon-pisten icon-pisten1" title="leicht"></i>
+1680185983319:</td>
+1680185983321:<td class="pisten-kuerzel">5</td>
+1680185983322:<td class="pisten-name">
+1680185983323:Muri Standardabfahrt
+1680185983323:</td>
+1680185983325:<td class="pisten-laenge">2.200 m</td>
+1680185983325:</tr>
+1680185983326:<tr class="row1">
+1680185983328:<td class="pisten-icon-status status-icons">
+1680185983330:<i class="icon-status icon-status1"></i>
+1680185983331:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983332:</td>
+1680185983333:<td class="pisten-kuerzel">5a</td>
+1680185983334:<td class="pisten-name">
+1680185983335:Abfahrt Untermuri
+1680185983336:</td>
+1680185983337:<td class="pisten-laenge">&nbsp;</td>
+1680185983338:</tr>
+1680185983340:<tr class="row0">
+1680185983341:<td class="pisten-icon-status status-icons">
+1680185983343:<i class="icon-status icon-status1"></i>
+1680185983345:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983346:</td>
+1680185983347:<td class="pisten-kuerzel">6</td>
+1680185983348:<td class="pisten-name">
+1680185983349:Slalomhang WISBI Strecke
+1680185983350:</td>
+1680185983351:<td class="pisten-laenge">700 m</td>
+1680185983352:</tr>
+1680185983353:<tr class="row1">
+1680185983354:<td class="pisten-icon-status status-icons">
+1680185983356:<i class="icon-status icon-status1"></i>
+1680185983358:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983358:</td>
+1680185983360:<td class="pisten-kuerzel">7a</td>
+1680185983361:<td class="pisten-name">
+1680185983362:Abfahrt Riedkopf &quot;Direkte&quot;
+1680185983363:</td>
+1680185983364:<td class="pisten-laenge">700 m</td>
+1680185983365:</tr>
+1680185983366:<tr class="row0">
+1680185983367:<td class="pisten-icon-status status-icons">
+1680185983369:<i class="icon-status icon-status1"></i>
+1680185983370:<i class="icon-pisten icon-pisten1" title="leicht"></i>
+1680185983371:</td>
+1680185983373:<td class="pisten-kuerzel">7</td>
+1680185983374:<td class="pisten-name">
+1680185983375:Abfahrt Riedkopf
+1680185983376:</td>
+1680185983377:<td class="pisten-laenge">1.900 m</td>
+1680185983378:</tr>
+1680185983379:<tr class="row1">
+1680185983380:<td class="pisten-icon-status status-icons">
+1680185983382:<i class="icon-status icon-status1"></i>
+1680185983383:<i class="icon-pisten icon-pisten1" title="leicht"></i>
+1680185983384:</td>
+1680185983385:<td class="pisten-kuerzel">7b</td>
+1680185983386:<td class="pisten-name">
+1680185983387:Riedkopf Umfahrung
+1680185983388:</td>
+1680185983389:<td class="pisten-laenge">1.000 m</td>
+1680185983390:</tr>
+1680185983391:<tr class="row0">
+1680185983393:<td class="pisten-icon-status status-icons">
+1680185983394:<i class="icon-status icon-status1"></i>
+1680185983396:<i class="icon-pisten icon-pisten1" title="leicht"></i>
+1680185983396:</td>
+1680185983398:<td class="pisten-kuerzel">8</td>
+1680185983400:<td class="pisten-name">
+1680185983401:Abfahrt Riedboden
+1680185983402:</td>
+1680185983403:<td class="pisten-laenge">1.200 m</td>
+1680185983404:</tr>
+1680185983405:<tr class="row1">
+1680185983406:<td class="pisten-icon-status status-icons">
+1680185983408:<i class="icon-status icon-status1"></i>
+1680185983410:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983411:</td>
+1680185983412:<td class="pisten-kuerzel">9</td>
+1680185983413:<td class="pisten-name">
+1680185983414:Abfahrt Glattingrat
+1680185983415:</td>
+1680185983417:<td class="pisten-laenge">1.800 m</td>
+1680185983417:</tr>
+1680185983419:<tr class="row0">
+1680185983420:<td class="pisten-icon-status status-icons">
+1680185983422:<i class="icon-status icon-status1"></i>
+1680185983424:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983424:</td>
+1680185983426:<td class="pisten-kuerzel">9a</td>
+1680185983427:<td class="pisten-name">
+1680185983428:Verbindung zu Abfahrt 3
+1680185983429:</td>
+1680185983430:<td class="pisten-laenge">500 m</td>
+1680185983431:</tr>
+1680185983431:<tr class="row1">
+1680185983433:<td class="pisten-icon-status status-icons">
+1680185983434:<i class="icon-status icon-status0"></i>
+1680185983436:<i class="icon-pisten icon-pisten3" title="schwer"></i>
+1680185983437:</td>
+1680185983438:<td class="pisten-kuerzel">10</td>
+1680185983440:<td class="pisten-name">
+1680185983441:Klostertaler Abfahrt Bärenloch
+1680185983442:</td>
+1680185983443:<td class="pisten-laenge">800 m</td>
+1680185983444:</tr>
+1680185983445:<tr class="row0">
+1680185983446:<td class="pisten-icon-status status-icons">
+1680185983447:<i class="icon-status icon-status1"></i>
+1680185983449:<i class="icon-pisten icon-pisten2" title="mittel"></i>
+1680185983450:</td>
+1680185983454:<td class="pisten-kuerzel">11</td>
+1680185983456:<td class="pisten-name">
+1680185983457:Schlossboden
+1680185983457:</td>
+1680185983459:<td class="pisten-laenge">&nbsp;</td>
+1680185983459:</tr>
+1680185983461:<tr class="row1">
+1680185983462:<td class="pisten-icon-status status-icons">
+1680185983463:<i class="icon-status icon-status"></i>
+1680185983465:<i class="icon-pisten icon-pisten4" title="Skiroute"></i>
+1680185983466:</td>
+1680185983467:<td class="pisten-kuerzel">12</td>
+1680185983468:<td class="pisten-name">
+1680185983470:Skiroute Klösterle Dorfmitte
+1680185983471:</td>
+1680185983473:<td class="pisten-laenge">1.500 m</td>
+1680185983474:</tr>
+1680185983474:<tr class="row0">
+1680185983476:<td class="pisten-icon-status status-icons">
+1680185983477:<i class="icon-status icon-status"></i>
+1680185983479:<i class="icon-pisten icon-pisten4" title="Skiroute"></i>
+1680185983480:</td>
+1680185983481:<td class="pisten-kuerzel">13</td>
+1680185983483:<td class="pisten-name">
+1680185983484:Skiroute Riedkopf
+1680185983485:</td>
+1680185983487:<td class="pisten-laenge">700 m</td>
+1680185983489:</tr>
+1680185983490:<tr class="row1">
+1680185983492:<td class="pisten-icon-status status-icons">
+1680185983494:<i class="icon-status icon-status"></i>
+1680185983496:<i class="icon-pisten icon-pisten4" title="Skiroute"></i>
+1680185983497:</td>
+1680185983498:<td class="pisten-kuerzel">14</td>
+1680185983500:<td class="pisten-name">
+1680185983501:Skiroute Glattingrat
+1680185983502:</td>
+1680185983504:<td class="pisten-laenge">1.200 m</td>
+1680185983505:</tr>
+1680185983506:<tr class="row0">
+1680185983508:<td class="pisten-icon-status status-icons">
+1680185983509:<i class="icon-status icon-status0"></i>
+1680185983513:<i class="icon-pisten icon-pisten4" title="Skiroute"></i>
+1680185983514:</td>
+1680185983516:<td class="pisten-kuerzel">15</td>
+1680185983518:<td class="pisten-name">
+1680185983519:Skiroute Schäferhütte
+1680185983520:</td>
+1680185983522:<td class="pisten-laenge">&nbsp;</td>
+1680185983523:</tr>
+1680185983524:</tbody>
+1680185983525:</table>
+1680185983525:</div>
+1680185983526:<hr/>
+1680185983528:<h2>Langlaufen <span class="less-important">Klostertal</span></h2>
+1680185983531:<dl class="dl-horizontal dt-large loipen-bericht" style="max-width: 540px;">
+1680185983533:<dt>Loipenbericht</dt>
+1680185983534:<dd>
+1680185983535:21.03.2023, 10:53
+1680185983537:</dd>
+1680185983539:<dt class="big" class="loipen-bericht-klassisch">Loipen klassisch</dt>
+1680185983542:<dd class="big" class="loipen-bericht-klassisch">
+1680185983543:0 km
+1680185983545:<span class="default-size">gespurt</span>
+1680185983548:<span class="default-size">(keine Meldung)</span>
+1680185983549:</dd>
+1680185983551:<dt class="big" class="loipen-bericht-skating">Loipen skating</dt>
+1680185983553:<dd class="big" class="loipen-bericht-skating">
+1680185983555:0 km <span class="default-size">gespurt</span>
+1680185983558:<span class="default-size">(keine Meldung)</span>
+1680185983559:</dd>
+1680185983560:</dl>
+1680185983561:<dl class="dl-horizontal dt-large">
+1680185983563:<dt class="has-buttons"></dt>
+1680185983565:<dd>
+1680185983567:<a href="/vorarlberg/langlaufen/alpenregion-bludenz/loipen/"
+1680185983569:class="link-important">
+1680185983570:Loipenbericht Details
+1680185983572:</a>
+1680185983573:</dd>
+1680185983574:</dl>
+1680185983575:</div>
+1680185983576:<div class="section-right">
+1680185983578:<div class="listbox box-container mobile-collapsed">
+1680185983582:<div class="box-header">Wetterstationen <span class="less-important">in der Nähe</span></div>
+1680185983585:<div class="box-content">
+1680185983587:<div class="box-header-remark">Messwerte von 15:20</div>
+1680185983588:<ul>
+1680185983589:<li>
+1680185983591:<div class="temperature">5.4<span class="less-important">°C</span></div>
+1680185983594:<div class="precipitation">5.4<span class="less-important">mm</span></div>
+1680185983597:<a href="/vorarlberg/wetter/stationen/langen-arlberg/">Langen/Arlberg</a>
+1680185983600:<span class="remark desktop-only">(8km)</span>
+1680185983602:<div class="clearer"></div>
+1680185983603:</li>
+1680185983604:<li>
+1680185983606:<div class="temperature">8.4<span class="less-important">°C</span></div>
+1680185983608:<div class="precipitation">3.4<span class="less-important">mm</span></div>
+1680185983610:<a href="/vorarlberg/wetter/stationen/gaschurn/">Gaschurn</a>
+1680185983612:<span class="remark desktop-only">(14km)</span>
+1680185983614:<div class="clearer"></div>
+1680185983615:</li>
+1680185983616:<li>
+1680185983618:<div class="temperature">5.0<span class="less-important">°C</span></div>
+1680185983620:<div class="precipitation">6.0<span class="less-important">mm</span></div>
+1680185983622:<a href="/vorarlberg/wetter/stationen/schroecken/">Schröcken</a>
+1680185983624:<span class="remark desktop-only">(17km)</span>
+1680185983625:<div class="clearer"></div>
+1680185983626:</li>
+1680185983627:<li>
+1680185983629:<div class="temperature temperature0">-0.2<span class="less-important">°C</span></div>
+1680185983632:<div class="precipitation">5.8<span class="less-important">mm</span></div>
+1680185983633:<a href="/tirol/wetter/stationen/galzig/">Galzig/Arlberg</a>
+1680185983635:<span class="remark desktop-only">(20km)</span>
+1680185983637:<div class="clearer"></div>
+1680185983637:</li>
+1680185983638:<li>
+1680185983640:<div class="temperature">4.4<span class="less-important">°C</span></div>
+1680185983642:<div class="precipitation">2.4<span class="less-important">mm</span></div>
+1680185983645:<a href="/tirol/wetter/stationen/galtuer/">Galtür</a>
+1680185983647:<span class="remark desktop-only">(21km)</span>
+1680185983648:<div class="clearer"></div>
+1680185983649:</li>
+1680185983649:<li>
+1680185983651:<div class="temperature">3.5<span class="less-important">°C</span></div>
+1680185983654:<div class="precipitation">8.0<span class="less-important">mm</span></div>
+1680185983655:<a href="/vorarlberg/wetter/stationen/warth/">Warth</a>
+1680185983657:<span class="remark desktop-only">(22km)</span>
+1680185983658:<div class="clearer"></div>
+1680185983660:</li>
+1680185983661:<li>
+1680185983663:<div class="temperature">8.3<span class="less-important">°C</span></div>
+1680185983665:<div class="precipitation">2.4<span class="less-important">mm</span></div>
+1680185983667:<a href="/vorarlberg/wetter/stationen/schoppernau/">Schoppernau</a>
+1680185983669:<span class="remark desktop-only">(23km)</span>
+1680185983670:<div class="clearer"></div>
+1680185983671:</li>
+1680185983672:<li>
+1680185983674:<div class="temperature">5.1<span class="less-important">°C</span></div>
+1680185983676:<div class="precipitation">4.9<span class="less-important">mm</span></div>
+1680185983680:<a href="/tirol/wetter/stationen/stanton-arlberg/">St. Anton am Arlberg</a>
+1680185983682:<span class="remark desktop-only">(24km)</span>
+1680185983684:<div class="clearer"></div>
+1680185983685:</li>
+1680185983686:<li>
+1680185983687:<div class="temperature">5.9<span class="less-important">°C</span></div>
+1680185983690:<div class="precipitation">4.4<span class="less-important">mm</span></div>
+1680185983692:<a href="/vorarlberg/wetter/stationen/mittelberg/">Mittelberg</a>
+1680185983694:<span class="remark desktop-only">(26km)</span>
+1680185983696:<div class="clearer"></div>
+1680185983697:</li>
+1680185983698:<li>
+1680185983700:<div class="temperature">2.0<span class="less-important">°C</span></div>
+1680185983702:<a href="/bayern/wetter/stationen/kanzelwand/">Kanzelwand</a>
+1680185983704:<span class="remark desktop-only">(30km)</span>
+1680185983705:<div class="clearer"></div>
+1680185983707:</li>
+1680185983708:</ul>
+1680185983711:<a class="box-content-link" href="/vorarlberg/wetter/">Weitere  <span class="important">Wetterstationen Vorarlberg</span></a>
+1680185983712:</div>
+1680185983713:<script>
+1680185983714:$(document).ready(function() {
+1680185983716:$.datepicker.setDefaults($.datepicker.regional['de']);
+1680185983718:var numberOfMonths = bergfex.isMobile ? 1 : 3;
+1680185983719:var datePickerOptions = {
+1680185983720:showWeek: true,
+1680185983721:firstDay: 1,
+1680185983722:numberOfMonths: numberOfMonths,
+1680185983724:dateFormat: "dd.mm.yy",
+1680185983725:minDate: new Date,
+1680185983726:onSelect: function(selectedDate) {
+1680185983728:var option = (this.id == "DatumAnreise") ? "minDate" : "maxDate",
+1680185983730:instance = $(this).data("datepicker"),
+1680185983731:date = $.datepicker.parseDate(
+1680185983732:instance.settings.dateFormat ||
+1680185983733:$.datepicker._defaults.dateFormat,
+1680185983735:selectedDate, instance.settings);
+1680185983736:dates.not(this).datepicker("option", option, date);
+1680185983737:}
+1680185983738:};
+1680185983739:var dates = $("#DatumAnreise, #DatumAbreise")
+1680185983741:.datepicker(datePickerOptions);
+1680185983743:$('form#accommodation_search').on('submit', function()
+1680185983745:{
+1680185983746:return checkform(this);
+1680185983747:});
+1680185983748:</script>
+1680185983752:<script type="text/javascript" charset="utf-8" src="//vcdn.bergfex.at/include/jsmin/bergfex.util-83417c027c6fce895c715257daca1215-1638804837.jsmin.js"></script>
+1680185983756:<script type="text/javascript" charset="utf-8" src="//vcdn.bergfex.at/include/jsmin/checkform_jquery-958ff5f07c885fb82c026ac50d1e414e-1674638181.jsmin.js"></script>
+1680185983758:<div id="contentbox-accommodations" class="contentbox contentbox-green">
+1680185983759:<div class="logo">
+1680185983763:<img src="https://vcdn.bergfex.at/images/resized/7a/4111f8762a6a537a_9c5877821f39e01b@2x.png" alt="" width="101.5" height="49" border="0" name="282"/>
+1680185983764:</div>
+1680185983766:<div class="box-header" style="padding-right: 125.5px;">
+1680185983770:Unterkünfte finden
+1680185983773:<span class="less-important">Sonnenkopf / Klostertal</span>
+1680185983774:</div>
+1680185983776:<form id="accommodation_search"
+1680185983777:style="margin: 0;"
+1680185983778:name="search"
+1680185983780:action="/sonnenkopf/unterkuenfte/"
+1680185983781:method="post">
+1680185983783:<div class="box-content grid cols5 cols-margin-4">
+1680185983784:<div class="col col-span2">
+1680185983785:<input type="text"
+1680185983787:placeholder="Anreise"
+1680185983788:id="DatumAnreise"
+1680185983789:name="DatumAnreise"
+1680185983791:rules="min:30.03.2023"
+1680185983792:class="input-100 input-date"
+1680185983793:value=""
+1680185983794:autocomplete="off" />
+1680185983795:</div>
+1680185983797:<div class="col col-span2">
+1680185983798:<input type="text"
+1680185983799:placeholder="Abreise"
+1680185983800:id="DatumAbreise"
+1680185983801:name="DatumAbreise"
+1680185983802:rules="min:$DatumAnreise"
+1680185983803:class="input-100 input-date"
+1680185983804:value=""
+1680185983805:autocomplete="off" />
+1680185983806:</div>
+1680185983807:<div class="col">
+1680185983809:<button type="submit" class="link-important no-label button-submit"></button>
+1680185983810:</div>
+1680185983811:</form>
+1680185983813:<div class="section box-container responsive-collapsed collapsed">
+1680185983814:<div class="box-header">
+1680185983815:49 Hotels, Ferienwohnungen...
+1680185983816:</div>
+1680185983817:<div class="box-content">
+1680185983818:<ul class="links-categories">
+1680185983820:<li><a href="/sonnenkopf/unterkunft/hotel/">Hotel</a> <span class="count">12</span></li>
+1680185983823:<li><a href="/sonnenkopf/unterkunft/pension/">Pension</a> <span class="count">5</span></li>
+1680185983825:<li><a href="/sonnenkopf/unterkunft/ferienwohnung/">Ferienwohnung</a> <span class="count">20</span></li>
+1680185983828:<li><a href="/sonnenkopf/unterkunft/gasthof/">Gasthof</a> <span class="count">1</span></li>
+1680185983830:<li><a href="/sonnenkopf/unterkunft/privatzimmer/">Privatzimmer</a> <span class="count">2</span></li>
+1680185983833:<li><a href="/sonnenkopf/unterkunft/bauernhof/">Bauernhof</a> <span class="count">1</span></li>
+1680185983835:<li><a href="/sonnenkopf/unterkunft/huette/">Hütte</a> <span class="count">1</span></li>
+1680185983837:<li><a href="/sonnenkopf/unterkunft/ferienhaus/">Ferienhaus</a> <span class="count">1</span></li>
+1680185983839:<li><a href="/sonnenkopf/unterkunft/chalet/">Chalet</a> <span class="count">5</span></li>
+1680185983842:<li><a href="/sonnenkopf/unterkunft/camping/">Camping</a> <span class="count">1</span></li>
+1680185983842:</ul>
+1680185983843:</div>
+1680185983845:<div class="section box-container collapsed">
+1680185983847:<div class="box-header">
+1680185983848:36 Angebote und Pauschalen
+1680185983849:</div>
+1680185983850:<div class="box-content">
+1680185983851:<ul class="links-packages-categories">
+1680185983853:<li><a href="/sonnenkopf/pauschalangebote/winterpauschale/">Winterurlaub</a> <span class="count">7</span></li>
+1680185983856:<li><a href="/sonnenkopf/pauschalangebote/skipauschale/">Skiurlaub</a> <span class="count">4</span></li>
+1680185983859:<li><a href="/sonnenkopf/pauschalangebote/skipass/">Angebote mit Skipass</a> <span class="count">3</span></li>
+1680185983864:<li><a href="/sonnenkopf/pauschalangebote/aktivurlaub/">Aktivurlaub</a> <span class="count">2</span></li>
+1680185983867:<li><a href="/sonnenkopf/pauschalangebote/sommerpauschale/">Sommerpauschale</a> <span class="count">2</span></li>
+1680185983872:<li><a href="/sonnenkopf/pauschalangebote/bergsteigen/">Bergsteigen</a> <span class="count">2</span></li>
+1680185983874:<li><a href="/sonnenkopf/pauschalangebote/osterpauschale/">Osterpauschale</a> <span class="count">2</span></li>
+1680185983877:<li><a href="/sonnenkopf/pauschalangebote/specials/">Specials</a> <span class="count">2</span></li>
+1680185983880:<li><a href="/sonnenkopf/pauschalangebote/gruppenreise/">Gruppenreise</a> <span class="count">2</span></li>
+1680185983883:<li><a href="/sonnenkopf/pauschalangebote/familienurlaub/">Familienurlaub</a> <span class="count">2</span></li>
+1680185983886:<li><a href="/sonnenkopf/pauschalangebote/wanderurlaub/">Wanderurlaub</a> <span class="count">1</span></li>
+1680185983889:<li><a href="/sonnenkopf/pauschalangebote/saisonfinale/">Saisonfinale</a> <span class="count">1</span></li>
+1680185983892:<li><a href="/sonnenkopf/pauschalangebote/mountainbikeurlaub/">Mountainbikeurlaub</a> <span class="count">1</span></li>
+1680185983895:<li><a href="/sonnenkopf/pauschalangebote/radurlaub/">Radurlaub</a> <span class="count">1</span></li>
+1680185983898:<li><a href="/sonnenkopf/pauschalangebote/golfpauschale/">Golfpauschale</a> <span class="count">1</span></li>
+1680185983900:<li><a href="/sonnenkopf/pauschalangebote/camping/">Camping</a> <span class="count">1</span></li>
+1680185983903:<li><a href="/sonnenkopf/pauschalangebote/urlaub-mit-hund/">Urlaub mit Hund</a> <span class="count">1</span></li>
+1680185983906:<li><a href="/sonnenkopf/pauschalangebote/selbstversorger/">Selbstversorger</a> <span class="count">1</span></li>
+1680185983907:</ul>
+1680185983908:</div>
+1680185983911:<div class='adzone_content partner adzone' id='adzone_content'
+1680185983916:<div class="contentbox contentbox-blue">
+1680185983917:<div class="logo">
+1680185983920:<img src="https://vcdn.bergfex.at/images/resized/7a/4111f8762a6a537a_9c5877821f39e01b@2x.png" alt="" width="101.5" height="49" border="0" name="282"/>
+1680185983921:</div>
+1680185983923:<div class="box-header" style="padding-right: 125.5px;">
+1680185983925:Sportanbieter <span class="less-important">Sonnenkopf / Klostertal</span>
+1680185983925:</div>
+1680185983927:<div class="box-content jblocktruncate"
+1680185983928:style="max-height: 90px;"
+1680185983929:data-moretext="Alle Angebote anzeigen"
+1680185983930:data-lesstext="Weniger">
+1680185983931:<ul>
+1680185983932:<li>
+1680185983933:<a href="/sonnenkopf/sportanbieter/_skiverleih/"
+1680185983934:title="Skiverleih">Skiverleih</a>
+1680185983935:<span class="count">2</span>
+1680185983936:</li>
+1680185983937:</ul>
+1680185983938:</div>
+1680185983940:<div class="contentbox contentbox--reviews desktop-only">
+1680185983942:<div class="box-header">Letzte Bewertungen</div>
+1680185983943:<div class="box-content">
+1680185983944:<ul><li>
+1680185983947:<div><strong><a href="/klippitztoerl/bewertungen/" title="Bewertungsstatistik Klippitztörl">Klippitztörl</a></strong></div>
+1680185983949:<div class="rating rating-container rating-5">
+1680185983950:<div class="rating rating-1"></div>
+1680185983951:</div>
+1680185983952:vor 51 Minuten
+1680185983953:</li>
+1680185983954:<li>
+1680185983958:<div><strong><a href="/schlick/bewertungen/" title="Bewertungsstatistik Schlick 2000 - Fulpmes">Schlick 2000 - Fulpmes</a></strong></div>
+1680185983959:<div class="rating rating-container rating-5">
+1680185983961:<div class="rating rating-5"></div>
+1680185983962:</div>
+1680185983963:vor 2 Stunden
+1680185983964:</li>
+1680185983965:<li>
+1680185983969:<div><strong><a href="/grosseck-speiereck/bewertungen/" title="Bewertungsstatistik Großeck / Speiereck / Mauterndorf">Großeck / Speiereck / Mauterndorf</a></strong></div>
+1680185983971:<div class="rating rating-container rating-5">
+1680185983973:<div class="rating rating-4"></div>
+1680185983974:</div>
+1680185983975:vor 2 Stunden
+1680185983976:</li>
+1680185983977:</ul>
+1680185983977:</div>
+1680185983979:<div class="section">
+1680185983980:<h3>Webcams</h3>
+1680185983982:<div style="max-height: 96px; overflow-y: hidden">
+1680185983983:<div class="webcam-thumb">
+1680185983985:<a href="/sonnenkopf/webcams/c174/"
+1680185983986:title="Webcam Bergstation Sonnenkopf">
+1680185983988:<img src="//images.bergfex.at/webcams/?id=174&2" width="62" height="46"/>
+1680185983989:</a>
+1680185983990:</div>
+1680185983991:<div class="webcam-thumb">
+1680185983993:<a href="/sonnenkopf/webcams/c12890/"
+1680185983995:title="Webcam Bergstation Sonnenkopf">
+1680185983997:<img src="//images.bergfex.at/webcams/?id=12890&2" width="62" height="46"/>
+1680185983998:</a>
+1680185983999:</div>
+1680185984000:<div class="webcam-thumb">
+1680185984002:<a href="/sonnenkopf/webcams/c12891/"
+1680185984003:title="Webcam Bergstation Sonnenkopf">
+1680185984006:<img src="//images.bergfex.at/webcams/?id=12891&2" width="62" height="46"/>
+1680185984007:</a>
+1680185984008:</div>
+1680185984009:<div class="webcam-thumb">
+1680185984010:<a href="/sonnenkopf/webcams/c12892/"
+1680185984011:title="Webcam Bergstation Sonnenkopf">
+1680185984014:<img src="//images.bergfex.at/webcams/?id=12892&2" width="62" height="46"/>
+1680185984015:</a>
+1680185984016:</div>
+1680185984018:<div class="webcam-thumb">
+1680185984019:<a href="/sonnenkopf/webcams/c12893/"
+1680185984021:title="Webcam Bergstation Sonnenkopf">
+1680185984023:<img src="//images.bergfex.at/webcams/?id=12893&2" width="62" height="46"/>
+1680185984024:</a>
+1680185984025:</div>
+1680185984026:<div class="webcam-thumb">
+1680185984027:<a href="/sonnenkopf/webcams/c8292/"
+1680185984029:title="Webcam Bergstation Riedkopf">
+1680185984032:<img src="//images.bergfex.at/webcams/?id=8292&2" width="62" height="46"/>
+1680185984033:</a>
+1680185984034:</div>
+1680185984035:<div class="webcam-thumb">
+1680185984037:<a href="/sonnenkopf/webcams/c8528/"
+1680185984039:title="Webcam Bergstation Riedkopf">
+1680185984042:<img src="//images.bergfex.at/webcams/?id=8528&2" width="62" height="46"/>
+1680185984043:</a>
+1680185984044:</div>
+1680185984045:<div class="webcam-thumb">
+1680185984047:<a href="/sonnenkopf/webcams/c8529/"
+1680185984049:title="Webcam Bergstation Riedkopf">
+1680185984051:<img src="//images.bergfex.at/webcams/?id=8529&2" width="62" height="46"/>
+1680185984053:</a>
+1680185984054:</div>
+1680185984055:<div style="clear:left;"></div>
+1680185984056:</div>
+1680185984058:<div class="mobile-only">
+1680185984061:<div class="listbox box-container mobile-collapsed">
+1680185984063:<div class="box-header">
+1680185984064:Nachbarn
+1680185984065:</div>
+1680185984067:<div class="box-content">
+1680185984068:<ul class="analytics--mobile-ski-resort-neighbors">
+1680185984070:<li><a href="/kristberg/">Kristbergbahn / Silbertal / Montafon</a></li>
+1680185984072:<li><a href="/stuben/">Stuben / Arlberg</a></li>
+1680185984074:<li><a href="/lech-zuers-arlberg/">Lech Zürs / Arlberg</a></li>
+1680185984076:<li><a href="/silvretta-montafon/">Silvretta Montafon</a></li>
+1680185984079:<li><a href="/silvapark-galtuer/">Silvapark Galtür / Paznaun-Ischgl</a></li>
+1680185984081:</ul>
+1680185984082:</div>
+1680185984084:<div class="listbox box-container mobile-collapsed">
+1680185984086:<div class="box-header">Beliebteste Skigebiete</div>
+1680185984087:<div class="box-content">
+1680185984088:<ul class="analytics--mobile-popular-ski-resorts">
+1680185984091:<li><a href="/lech-zuers-arlberg/">Lech Zürs / Arlberg</a></li>
+1680185984093:<li><a href="/silvretta-montafon/">Silvretta Montafon</a></li>
+1680185984095:<li><a href="/warth-schroecken/">Warth / Schröcken am Arlberg</a></li>
+1680185984097:<li><a href="/damuels/">Damüls</a></li>
+1680185984100:<li><a href="/mellau/">Skischaukel Mellau / Damüls / Faschina</a></li>
+1680185984102:<li><a href="/gargellen/">Gargellen / Montafon</a></li>
+1680185984104:<li><a href="/sonnenkopf/">Sonnenkopf / Klostertal</a></li>
+1680185984105:<li><a href="/brandnertal/">Brandnertal</a></li>
+1680185984107:<li><a href="/golm/">Golm / Montafon</a></li>
+1680185984109:<li><a href="/boedele/">Bödele / Schwarzenberg</a></li>
+1680185984111:<li><a href="/laterns/">Laterns / Gapfohl</a></li>
+1680185984112:<li><a href="/stuben/">Stuben / Arlberg</a></li>
+1680185984115:<li><a href="/diedamskopf/">Diedamskopf / Schoppernau</a></li>
+1680185984117:<li><a href="/kleinwalsertal-kanzelwand/">Kleinwalsertal / Kanzelwand / Fellhorn</a></li>
+1680185984120:<li><a href="/walmendingerhorn-ifen-heuberg/">Walmendingerhorn / Ifen / Heuberg</a></li>
+1680185984122:<li><a href="/faschina/">Faschina / Fontanella</a></li>
+1680185984124:<li><a href="/kristberg/">Kristbergbahn / Silbertal / Montafon</a></li>
+1680185984126:<li><a href="/pfaenderbahn/">Pfänderbahn / Bregenz am Bodensee</a></li>
+1680185984128:<li><a href="/silvretta-bielerhoehe/">Silvretta Bielerhöhe / Vermuntbahn / Montafon</a></li>
+1680185984131:<li><a href="/hochhaederich/">Alpenarena Hochhäderich / Hittisau / Riefensberg</a></li>
+1680185984132:</ul>
+1680185984133:</div>
+1680185984135:<div style="text-align: center; display:flex; justify-content: space-between">
+1680185984138:<a href="/redirect/f258b4/1231/0/1/https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdeveloper%3Fid%3Dbergfex%2BGmbH"
+1680185984139:title="Android Apps"
+1680185984140:target="_blank"
+1680185984142:class="app-badge googleplay-badge de analytics--mobile-googleplay">
+1680185984143:</a>
+1680185984146:<a href="/redirect/e29ab4/1230/0/1/https%3A%2F%2Fapps.apple.com%2Fat%2Fdeveloper%2Fbergfex-gmbh%2Fid355025018"
+1680185984148:title="iPhone Apps"
+1680185984149:target="_blank"
+1680185984151:class="app-badge appstore-badge de analytics--mobile-appstore"></a>
+1680185984152:</div>
+1680185984153:<script>
+1680185984154:$(document).ready(function() {
+1680185984155:if($.browser){
+1680185984156:if ($.browser.isIOS) {
+1680185984158:$(".googleplay-badge").hide();
+1680185984159:$(".appstore-badge").addClass("big-badge");
+1680185984161:} else if ($.browser.isAndroid) {
+1680185984163:$(".appstore-badge").hide();
+1680185984165:$(".googleplay-badge").addClass("big-badge");
+1680185984166:}
+1680185984167:});
+1680185984168:</script></div></div>
+1680185984169:<div style="clear: both;"></div>
+1680185984170:</div>
+1680185984171:</main>
+1680185984172:<div id="sidebar">
+1680185984174:<div class='adzone_skyscraper partner adzone' id='adzone_skyscraper'
+1680185984178:</div>
+1680185984180:<!--/page-bottom-->
+1680185984181:</div>
+1680185984183:<div class="clearer"></div>
+1680185984184:<div id="mapsearch-template-h2noresult">
+1680185984186:<div class="h2">Keine Einträge gefunden.</div>
+1680185984187:</div>
+1680185984188:<div id="mapsearch-template-h2overflow">
+1680185984192:<div class="h2">Es wurden %count% Einträge gefunden. Bitte Suche verfeinern.</div>
+1680185984193:</div>
+1680185984194:<div id="mapsearch-template-h2local">
+1680185984197:<div class="h2">Lokale Suchergebnisse <span class="less-important">(Entfernung &lt;= 25km)</span></div>
+1680185984199:</div>
+1680185984200:<div id="mapsearch-template-h2nonlocal">
+1680185984203:<div class="h2">Weitere Suchergebnisse <span class="less-important">(Entfernung &gt; 25km)</span></div>
+1680185984204:</div>
+1680185984205:<div id="mapsearch-template-h2all">
+1680185984206:<div class="h2">Alle %count% Suchergebnisse</div>
+1680185984207:</div>
+1680185984209:<div id="mapsearch-template-line">
+1680185984210:<div class="mapsearch-line">
+1680185984213:<div><a href="" class="name analytics-map-search-result-link">%name%</a> <span class="region">%region%</span></div>
+1680185984216:<div><span class="type">%type%</span> <span class="elevation">%elevation%</span></div>
+1680185984217:</div>
+1680185984218:</div><footer id="footer">
+1680185984220:<div class="footer-container page-left-margin">
+1680185984222:<div class="footer-location">
+1680185984223:<a href="/" title="bergfex home">bergfex</a>
+1680185984225:/ <a href="/oesterreich/">Winter Österreich</a> /
+1680185984226:<a href="/vorarlberg/">Vorarlberg</a> /
+1680185984228:<a href="/sonnenkopf/">Skigebiet Sonnenkopf / Klostertal</a> /
+1680185984230:<strong>Schneebericht</strong>
+1680185984231:</div>
+1680185984232:<ul class="nav-list">
+1680185984234:<li class="has-children collapsed language-select">
+1680185984236:<div class="h2 no-select" style="overflow: visible">
+1680185984237:<span class="mobile-only">Sprache</span>
+1680185984238:<span class="flag at"></span> Deutsch
+1680185984239:</div>
+1680185984240:<ul>
+1680185984241:<li>
+1680185984242:<a href="/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984244:<span class="flag at"></span> Deutsch
+1680185984246:</a>
+1680185984247:</li>
+1680185984248:<li>
+1680185984250:<a href="https://www.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984252:<span class="flag en"></span> English
+1680185984255:</a>
+1680185984256:</li>
+1680185984256:<li>
+1680185984258:<a href="https://www.bergfex.fr/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984261:<span class="flag fr"></span> Fran&ccedil;ais
+1680185984264:</a>
+1680185984265:</li>
+1680185984266:<li>
+1680185984268:<a href="https://it.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984270:<span class="flag it"></span> Italiano
+1680185984272:</a>
+1680185984273:</li>
+1680185984274:<li>
+1680185984277:<a href="https://www.bergfex.es/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984279:<span class="flag es"></span> Espa&ntilde;ol
+1680185984281:</a>
+1680185984282:</li>
+1680185984283:<li>
+1680185984285:<a href="https://nl.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984287:<span class="flag nl"></span> Nederlands
+1680185984288:</a>
+1680185984289:</li>
+1680185984290:<li>
+1680185984292:<a href="https://se.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984294:<span class="flag se"></span> Svenska
+1680185984296:</a>
+1680185984298:</li>
+1680185984299:<li>
+1680185984302:<a href="https://no.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984303:<span class="flag no"></span> Norsk
+1680185984304:</a>
+1680185984305:</li>
+1680185984306:<li>
+1680185984308:<a href="https://dk.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984310:<span class="flag dk"></span> Dansk
+1680185984311:</a>
+1680185984314:</li>
+1680185984315:<li>
+1680185984318:<a href="https://fi.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984320:<span class="flag fi"></span> Suomi
+1680185984323:</a>
+1680185984325:</li>
+1680185984326:<li>
+1680185984329:<a href="https://hu.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984331:<span class="flag hu"></span> Magyar
+1680185984332:</a>
+1680185984334:</li>
+1680185984335:<li>
+1680185984338:<a href="https://www.bergfex.cz/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984341:<span class="flag cz"></span> &#269;esk&yacute;
+1680185984342:</a>
+1680185984344:</li>
+1680185984345:<li>
+1680185984348:<a href="https://www.bergfex.sk/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984351:<span class="flag sk"></span> Slovensky
+1680185984353:</a>
+1680185984355:</li>
+1680185984359:<li>
+1680185984362:<a href="https://www.bergfex.pl/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984364:<span class="flag pl"></span> Polski
+1680185984365:</a>
+1680185984367:</li>
+1680185984370:<li>
+1680185984372:<a href="https://hr.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984374:<span class="flag hr"></span> Hrvatski
+1680185984376:</a>
+1680185984377:</li>
+1680185984378:<li>
+1680185984380:<a href="https://www.bergfex.si/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984382:<span class="flag si"></span> Sloven&scaron;&#269;ina
+1680185984384:</a>
+1680185984386:</li>
+1680185984388:<li>
+1680185984391:<a href="https://ru.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984394:<span class="flag ru"></span> &#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;
+1680185984395:</a>
+1680185984397:</li>
+1680185984399:<li>
+1680185984402:<a href="https://ro.bergfex.com/sonnenkopf/schneebericht/" rel="nofollow">
+1680185984405:<span class="flag ro"></span> Româna
+1680185984406:</a>
+1680185984408:</li>
+1680185984409:</ul>
+1680185984410:</li>
+1680185984411:<li class="has-children collapsed">
+1680185984414:<div class="h2">Themen</div>
+1680185984415:<ul>
+1680185984417:<li><a href="/oesterreich/">Skigebiete</a></li>
+1680185984419:<li><a href="/sommer/oesterreich/">Sommerregionen</a></li>
+1680185984422:<li><a href="/oesterreich/snow-parks/">Snowparks</a></li>
+1680185984425:<li><a href="/oesterreich/langlaufen/">Langlaufen</a></li>
+1680185984427:<li><a href="/sommer/oesterreich/touren/">Touren</a></li>
+1680185984430:<li><a href="/oesterreich/unterkuenfte/">Unterkünfte</a></li>
+1680185984431:</ul>
+1680185984432:</li>
+1680185984435:<li class="has-children collapsed">
+1680185984437:<div class="h2">Allgemein</div>
+1680185984438:<ul>
+1680185984439:<li><a href="/newsletter/">Newsletter</a></li>
+1680185984441:<li><a href="/produkte/">Produkte</a></li>
+1680185984443:<li><a href="/karriere/">Jobs</a></li>
+1680185984445:<li><a href="/login/">Anmelden</a></li>
+1680185984447:</ul>
+1680185984448:</li>
+1680185984450:<li class="has-children collapsed">
+1680185984452:<div class="h2">bergfex Apps</div>
+1680185984453:<ul>
+1680185984455:<li><a href="/apps/">Übersicht aller Apps</a></li>
+1680185984457:<li><a href="/apps/#touren">bergfex/Touren</a></li>
+1680185984458:<li><a href="/apps/#ski">bergfex/Ski</a></li>
+1680185984460:<li><a href="/apps/#wetter">bergfex/Wetter</a></li>
+1680185984462:</ul>
+1680185984463:</li>
+1680185984464:</ul>
+1680185984466:<div id="language-select-overlay"></div>
+1680185984467:<div class="copyright-container">
+1680185984469:<!-- background image -->
+1680185984471:<div class="copyright">Copyright &copy; 1999, 2023 bergfex GmbH. Alle Rechte vorbehalten.</div>
+1680185984472:<div class="copyright-links">
+1680185984474:<a href="/datenschutz/">Datenschutzbestimmungen</a> |
+1680185984476:<a href="/impressum/">Impressum</a> |
+1680185984478:<a href="" id="privacy-manager">Privacy Manager</a>
+1680185984480:</div>
+1680185984483:</footer></body>
+1680185990371:</html>gebiet-update
+1680185998249:help
+1680186003291:gebiet-update
+1680200400739:stacktrace
+1680200469333:gebiet-update
+1680200570524:gebiet-neu
+1680200580786:gebiet-update
+1680271430049:stacktrace
+1680271490967:gebiet-update
+1680272996083:stacktrace
+1680273050591:gebiet-update
+1680273227727:stacktrace
+1680273427539:gebiet-update
+1680275698181:stacktrace
+1680275920082:gebiet-update
+1680278086032:stacktrace
+1680278230099:gebiet-update
+1680292574696:gebiet-neu https://www.bergfex.ch/toggenburg-chaeserrugg/
+1680292873857:gebiet-neu https://www.bergfex.at/sonnenkopf/schneebericht/
+1680292884430:https://www.bergfex.at/sonnenkopf
+1680292890312:gebiet-neu https://www.bergfex.at/sonnenkopf
+1680292927368:gebiet-neu https://www.bergfex.de/liftverbund-feldberg/
+1680292976149:gebiet-neu
+1680292988301:stacktrace
+1680293084643:gebiet-neu
+1680293617906:gebiete
