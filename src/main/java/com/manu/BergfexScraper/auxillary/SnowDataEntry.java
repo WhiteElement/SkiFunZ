@@ -1,33 +1,23 @@
-package com.manu.BergfexScraper.dto;
+package com.manu.BergfexScraper.auxillary;
 
 import java.util.Date;
 
-public class SkiResortAndTimelineDTO implements SingleResortResponseDTO {
+public class SnowDataEntry {
 
-    private Long Id;
-    private String skiResortName;
     private Date updatedOn;
     private Integer showHeightMountain;
     private Integer showHeightValley;
     private String liftsOpen;
     private String pistesOpen;
 
-    SkiResortAndTimelineDTO() {}
+    SnowDataEntry() {}
 
-    public Long getId() {
-        return Id;
-    }
-
-    public void setId(Long id) {
-        Id = id;
-    }
-
-    public String getSkiResortName() {
-        return skiResortName;
-    }
-
-    public void setSkiResortName(String skiResortName) {
-        this.skiResortName = skiResortName;
+    public SnowDataEntry(Date updatedOn, Integer showHeightMountain, Integer showHeightValley, String liftsOpen, String pistesOpen) {
+        this.updatedOn = updatedOn;
+        this.showHeightMountain = showHeightMountain;
+        this.showHeightValley = showHeightValley;
+        this.liftsOpen = liftsOpen;
+        this.pistesOpen = pistesOpen;
     }
 
     public Date getUpdatedOn() {
@@ -67,16 +57,6 @@ public class SkiResortAndTimelineDTO implements SingleResortResponseDTO {
     }
 
     public void setPistesOpen(String pistesOpen) {
-        this.pistesOpen = pistesOpen;
-    }
-
-    public SkiResortAndTimelineDTO(Long id, String skiResortName, Date updatedOn, Integer showHeightMountain, Integer showHeightValley, String liftsOpen, String pistesOpen) {
-        Id = id;
-        this.skiResortName = skiResortName;
-        this.updatedOn = updatedOn;
-        this.showHeightMountain = showHeightMountain;
-        this.showHeightValley = showHeightValley;
-        this.liftsOpen = liftsOpen;
         this.pistesOpen = pistesOpen;
     }
 }

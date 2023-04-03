@@ -1,7 +1,7 @@
 package com.manu.BergfexScraper.controller;
 
+import com.manu.BergfexScraper.dto.SingleResortResponseDTO;
 import com.manu.BergfexScraper.dto.SkiResortAndTimelineDTO;
-import com.manu.BergfexScraper.model.SkiResort;
 import com.manu.BergfexScraper.service.SkiResortService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -17,11 +17,11 @@ public class APIController {
 
     @GetMapping()
     public List<SkiResortAndTimelineDTO> showAllResorts(@RequestParam(defaultValue = "false") boolean sorted) {
-        return skiResortService.findAll(sorted);
+        return skiResortService.findAllResorts(sorted);
     }
 
     @GetMapping("/{id}")
-    public SkiResort showResortWithTimeline(@PathVariable Long id) {
-        return skiResortService.findById(id);
+    public SingleResortResponseDTO showResortWithTimeline(@PathVariable Long id, @RequestParam(defaultValue = "false") boolean current) {
+        return skiResortService.findSingleResort(id, current);
     }
 }
