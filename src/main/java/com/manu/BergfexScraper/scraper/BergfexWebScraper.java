@@ -2,11 +2,9 @@ package com.manu.BergfexScraper.scraper;
 
 import com.manu.BergfexScraper.model.SkiResort;
 import com.manu.BergfexScraper.model.SkiResortTimeline;
-import com.manu.BergfexScraper.service.SkiResortService;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.StringUtils;
 
 import java.io.IOException;

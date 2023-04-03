@@ -1,5 +1,6 @@
 package com.manu.BergfexScraper.service;
 
+import com.manu.BergfexScraper.dto.SkiResortAndTimelineDTO;
 import com.manu.BergfexScraper.model.SkiResort;
 import com.manu.BergfexScraper.model.SkiResortTimeline;
 import com.manu.BergfexScraper.repository.SkiResortRepository;
@@ -10,8 +11,8 @@ import org.springframework.stereotype.Service;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collectors;
 
 @Service
 public class SkiResortService {
@@ -68,8 +69,18 @@ public class SkiResortService {
         this.scraper = scraper;
     }
 
-    public List<SkiResort> findAll() {
-        return skiResortRepository.findAll();
+    public List<SkiResortAndTimelineDTO> findAll(boolean sorted) {
+        if(sorted) {
+//            List<SkiResortAndTimelineDTO> resortsWithTimeline = skiResortRepository.findAllResortsWithTimeline();
+//            List<SkiResortAndTimelineDTO> resortsWithTimelineSorted = resortsWithTimeline.stream()
+//                    .filter(resort -> resort.getShowHeightMountain() != null)
+//                    .sorted(Comparator.comparingInt(resort -> ((SkiResortAndTimelineDTO) resort ).getShowHeightMountain()).reversed())
+//                    .toList();
+//            return resortsWithTimelineSorted;
+            return skiResortRepository.findAllResortsWithTimelineOrderedBySnowMountainHeight();
+        } else {
+            return skiResortRepository.findAllResortsWithTimeline();
+        }
     }
 
     public boolean isUpToDate(SkiResort skiResort) {
@@ -87,4 +98,16 @@ public class SkiResortService {
         }
         return false;
     }
+
+    public SkiResort findById(Long id) {
+        return skiResortRepository.findById(id).get();
+    }
+
+//    public List<SkiResortDTO> findAllWithTimeLine() {
+//        return skiResortRepository.findAllWithTimeLine();
+//    }
+
+//    public List<SkiResort> findallwithtimeline2() {
+//        return skiResortRepository.findallwithtimeline2();
+//    }
 }

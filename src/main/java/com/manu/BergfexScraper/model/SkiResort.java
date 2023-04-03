@@ -1,5 +1,6 @@
 package com.manu.BergfexScraper.model;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
 
 import java.net.URL;
@@ -15,6 +16,7 @@ public class SkiResort {
     private URL url;
     private String name;
 
+    @JsonManagedReference
     @OneToMany(mappedBy = "skiResort", cascade = CascadeType.ALL)
     private List<SkiResortTimeline> skiResortTimelines= new ArrayList<>();
 
@@ -24,6 +26,14 @@ public class SkiResort {
         Id = id;
         this.url = url;
         this.name = name;
+    }
+
+    public SkiResortTimeline latestSnowHeightMountain() {
+        if(skiResortTimelines.size() > 0) {
+            int size = skiResortTimelines.size();
+            return skiResortTimelines.get(size-1);
+        }
+        return null;
     }
 
     public Long getId() {
@@ -48,5 +58,13 @@ public class SkiResort {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public List<SkiResortTimeline> getSkiResortTimelines() {
+        return skiResortTimelines;
+    }
+
+    public void setSkiResortTimelines(List<SkiResortTimeline> skiResortTimelines) {
+        this.skiResortTimelines = skiResortTimelines;
     }
 }
