@@ -16,8 +16,10 @@ public class APIController {
     SkiResortService skiResortService;
 
     @GetMapping()
-    public List<SkiResortAndTimelineDTO> showAllResorts(@RequestParam(defaultValue = "false") boolean sorted) {
-        return skiResortService.findAllResorts(sorted);
+    public List<SkiResortAndTimelineDTO> showAllResorts(@RequestParam(defaultValue = "false") boolean sorted,
+                                                        @RequestParam(defaultValue = "0") Integer minSnowHeightMountain,
+                                                        @RequestParam(defaultValue = "0") Integer minSnowHeightValley) {
+        return skiResortService.findAllResorts(sorted, minSnowHeightMountain, minSnowHeightValley);
     }
 
     @GetMapping("/{id}")

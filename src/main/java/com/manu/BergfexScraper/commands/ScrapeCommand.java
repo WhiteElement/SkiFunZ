@@ -13,9 +13,9 @@ import java.util.Scanner;
 @ShellComponent
 public class ScrapeCommand {
 
-//    @Autowired
-//    SkiResortService skiResortService;
-//
+    @Autowired
+    SkiResortService skiResortService;
+
 //    @ShellMethod(key = "gebiet-neu", value = "speichert ein neues Skigebiet")
 //    public String createNewSkiResort(@ShellOption(defaultValue = "") String url) throws MalformedURLException {
 //        String urlstring;
@@ -29,22 +29,22 @@ public class ScrapeCommand {
 //        return skiResortService.initNewResort(urlstring);
 //    }
 
-//    @ShellMethod(key = "gebiet-update", value = "führt ein Update für alle in der Datenbank befindlichen Skigebiete durch")
-//    public String updateSkiResortSnowData() throws MalformedURLException {
-//        List<SkiResort> skiResorts = skiResortService.findAll(false);
-//        if(skiResorts.size() == 0) {
-//            return "Noch keine Skigebiete hinzugefügt";
-//        } else {
-//            for(SkiResort skiResort : skiResorts) {
-//                if(!skiResortService.isUpToDate(skiResort)) {
-//                    skiResortService.updateSnowTimeline(skiResort);
-//                }
-//            }
-//            return "Alle Skigebiete("
-//                    + skiResorts.size()
-//                    + ") upgedated";
-//        }
-//    }
+    @ShellMethod(key = "gebiet-update", value = "führt ein Update für alle in der Datenbank befindlichen Skigebiete durch")
+    public String updateSkiResortSnowData() throws MalformedURLException {
+        List<SkiResort> skiResorts = skiResortService.findAll();
+        if(skiResorts.size() == 0) {
+            return "Noch keine Skigebiete hinzugefügt";
+        } else {
+            for(SkiResort skiResort : skiResorts) {
+                if(!skiResortService.isUpToDate(skiResort)) {
+                    skiResortService.updateSnowTimeline(skiResort);
+                }
+            }
+            return "Alle Skigebiete("
+                    + skiResorts.size()
+                    + ") upgedated";
+        }
+    }
 
 //    @ShellMethod(key = "gebiete", value= "zeigt alle Gebiete in der Datenbank an")
 //    public String showAllResorts() {

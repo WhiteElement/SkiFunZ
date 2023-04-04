@@ -71,12 +71,33 @@ public class SkiResortService {
         this.scraper = scraper;
     }
 
-    public List<SkiResortAndTimelineDTO> findAllResorts(boolean sorted) {
+    public List<SkiResortAndTimelineDTO> findAllResorts(boolean sorted, Integer minSnowHeightMountain, Integer minSnowHeightValley) {
         if (sorted) {
-            return skiResortRepository.findAllResortsWithTimelineOrderedBySnowMountainHeight();
+            List<SkiResortAndTimelineDTO> skiResortAndTimelineDTOs = skiResortRepository.findAllResortsWithTimelineOrderedBySnowMountainHeight();
+            return filterDTOListBy(skiResortAndTimelineDTOs, minSnowHeightValley, minSnowHeightMountain);
         } else {
             return skiResortRepository.findAllResortsWithTimeline();
         }
+    }
+
+    private List<SkiResortAndTimelineDTO> filterDTOListBy(List<SkiResortAndTimelineDTO> skiResortAndTimelineDTOs, Integer minSnowHeightValley, Integer minSnowHeightMountain) {
+        List<SkiResortAndTimelineDTO> skiResortAndTimelineDTOS = skiResortAndTimelineDTOs;
+        if(minSnowHeightMountain != 0) {
+            skiResortAndTimelineDTOS = skiResortAndTimelineDTOs.stream()
+                .filter(skiResortAndTimelineDTO ->
+                        skiResortAndTimelineDTO.getShowHeightMountain() != null)
+                .filter(skiResortAndTimelineDTO ->
+                        skiResortAndTimelineDTO.getShowHeightMountain() >= minSnowHeightMountain).toList();
+        }
+        if(minSnowHeightValley != 0) {
+            skiResortAndTimelineDTOS = skiResortAndTimelineDTOs.stream()
+                .filter(skiResortAndTimelineDTO ->
+                        skiResortAndTimelineDTO.getShowHeightValley() != null)
+                .filter(skiResortAndTimelineDTO ->
+                        skiResortAndTimelineDTO.getShowHeightValley() >= minSnowHeightValley).toList();
+        }
+        return skiResortAndTimelineDTOS;
+
     }
 
     public SingleResortResponseDTO findSingleResort(Long id, boolean current) {
@@ -115,13 +136,6 @@ public class SkiResortService {
         skiResortAndAllTimelinesDTO.setSnowDataEntries(snowDataEntries);
     }
 
-//    public List<SkiResortDTO> findAllWithTimeLine() {
-//        return skiResortRepository.findAllWithTimeLine();
-//    }
-
-//    public List<SkiResort> findallwithtimeline2() {
-//        return skiResortRepository.findallwithtimeline2();
-//    }
 
     public boolean isUpToDate(SkiResort skiResort) {
         SkiResortTimeline skiResortTimeline = skiResortTimelineRepository.findNewestEntry(skiResort);
@@ -139,4 +153,7 @@ public class SkiResortService {
         return false;
     }
 
+    public List<SkiResort> findAll() {
+        return skiResortRepository.findAll();
+    }
 }
