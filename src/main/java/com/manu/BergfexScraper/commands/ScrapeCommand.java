@@ -1,6 +1,8 @@
 package com.manu.BergfexScraper.commands;
 
+import com.manu.BergfexScraper.model.APIKey;
 import com.manu.BergfexScraper.model.SkiResort;
+import com.manu.BergfexScraper.service.APIKeyService;
 import com.manu.BergfexScraper.service.SkiResortService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.shell.standard.ShellComponent;
@@ -8,13 +10,22 @@ import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
 import java.net.MalformedURLException;
 import java.util.List;
-import java.util.Scanner;
 
 @ShellComponent
 public class ScrapeCommand {
 
     @Autowired
     SkiResortService skiResortService;
+
+    private final APIKeyService apiKeyService;
+
+    public ScrapeCommand(APIKeyService apiKeyService) {
+        this.apiKeyService = apiKeyService;
+    }
+
+//    public ScrapeCommand(APIKeyService apiKeyService) {
+//        this.apiKeyService = apiKeyService;
+//    }
 
 //    @ShellMethod(key = "gebiet-neu", value = "speichert ein neues Skigebiet")
 //    public String createNewSkiResort(@ShellOption(defaultValue = "") String url) throws MalformedURLException {
@@ -43,6 +54,20 @@ public class ScrapeCommand {
             return "Alle Skigebiete("
                     + skiResorts.size()
                     + ") upgedated";
+        }
+    }
+
+    @ShellMethod(key = "create", value = "legt neuen User mit API-Key an")
+    public String createNewUserWithKey(@ShellOption(defaultValue = "" ) String username) {
+        if(username.equals("")) {
+            return "keinen Username angegeben! \n" +
+                    "Versuche: 'create USERNAME'";
+        } else {
+            APIKey apiKey = apiKeyService.createNew(username);
+            return "Neuer User + Key angelegt:\n" +
+                    "-------------------------\n" +
+                    "Username: " + apiKey.getUsername() + "\n" +
+                    "Key: " + apiKey.getKeyValue();
         }
     }
 
