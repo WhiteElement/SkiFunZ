@@ -5,4 +5,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface APIKeyRepository extends JpaRepository<APIKey, Long> {
     boolean existsByKeyValue(String apiKey);
+
+    boolean existsByUsername(String username);
 }

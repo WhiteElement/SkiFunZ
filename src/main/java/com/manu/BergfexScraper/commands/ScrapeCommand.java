@@ -4,41 +4,36 @@ import com.manu.BergfexScraper.model.APIKey;
 import com.manu.BergfexScraper.model.SkiResort;
 import com.manu.BergfexScraper.service.APIKeyService;
 import com.manu.BergfexScraper.service.SkiResortService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
 import java.net.MalformedURLException;
 import java.util.List;
+import java.util.Scanner;
 
 @ShellComponent
 public class ScrapeCommand {
 
-    @Autowired
-    SkiResortService skiResortService;
-
     private final APIKeyService apiKeyService;
+    private final SkiResortService skiResortService;
 
-    public ScrapeCommand(APIKeyService apiKeyService) {
+    public ScrapeCommand(APIKeyService apiKeyService, SkiResortService skiResortService) {
         this.apiKeyService = apiKeyService;
+        this.skiResortService = skiResortService;
     }
 
-//    public ScrapeCommand(APIKeyService apiKeyService) {
-//        this.apiKeyService = apiKeyService;
-//    }
-
-//    @ShellMethod(key = "gebiet-neu", value = "speichert ein neues Skigebiet")
-//    public String createNewSkiResort(@ShellOption(defaultValue = "") String url) throws MalformedURLException {
-//        String urlstring;
-//        if(url.equals("")) {
-//            System.out.println("Bergfex Link des Skigebiets einfügen: ");
-//            Scanner scanner = new Scanner(System.in);
-//            urlstring = scanner.nextLine();
-//        } else {
-//            urlstring = url;
-//        }
-//        return skiResortService.initNewResort(urlstring);
-//    }
+    @ShellMethod(key = "gebiet-neu", value = "speichert ein neues Skigebiet")
+    public String createNewSkiResort(@ShellOption(defaultValue = "") String url) throws MalformedURLException {
+        String urlstring;
+        if(url.equals("")) {
+            System.out.println("Bergfex Link des Skigebiets einfügen: ");
+            Scanner scanner = new Scanner(System.in);
+            urlstring = scanner.nextLine();
+        } else {
+            urlstring = url;
+        }
+        return skiResortService.initNewResort(urlstring);
+    }
 
     @ShellMethod(key = "gebiet-update", value = "führt ein Update für alle in der Datenbank befindlichen Skigebiete durch")
     public String updateSkiResortSnowData() throws MalformedURLException {
@@ -63,11 +58,15 @@ public class ScrapeCommand {
             return "keinen Username angegeben! \n" +
                     "Versuche: 'create USERNAME'";
         } else {
-            APIKey apiKey = apiKeyService.createNew(username);
-            return "Neuer User + Key angelegt:\n" +
-                    "-------------------------\n" +
-                    "Username: " + apiKey.getUsername() + "\n" +
-                    "Key: " + apiKey.getKeyValue();
+            if(!apiKeyService.userNameAlreadyExists(username)) {
+                return "Username ist bereits vergeben";
+            } else {
+                APIKey apiKey = apiKeyService.createNew(username);
+                return "Neuer User + Key angelegt:\n" +
+                        "-------------------------\n" +
+                        "Username: " + apiKey.getUsername() + "\n" +
+                        "Key: " + apiKey.getKeyValue();
+            }
         }
     }
 

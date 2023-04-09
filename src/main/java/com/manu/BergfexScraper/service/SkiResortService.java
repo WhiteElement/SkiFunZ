@@ -4,13 +4,15 @@ import com.manu.BergfexScraper.auxillary.SnowDataEntry;
 import com.manu.BergfexScraper.dto.SingleResortResponseDTO;
 import com.manu.BergfexScraper.dto.SkiResortAndAllTimelinesDTO;
 import com.manu.BergfexScraper.dto.SkiResortAndTimelineDTO;
+import com.manu.BergfexScraper.errorhandling.InvalidApiKeyException;
 import com.manu.BergfexScraper.model.SkiResort;
 import com.manu.BergfexScraper.model.SkiResortTimeline;
 import com.manu.BergfexScraper.repository.SkiResortRepository;
 import com.manu.BergfexScraper.repository.SkiResortTimelineRepository;
 import com.manu.BergfexScraper.scraper.BergfexWebScraper;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.web.server.ResponseStatusException;
+
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.text.SimpleDateFormat;
@@ -20,14 +22,15 @@ import java.util.*;
 public class SkiResortService {
 
     private BergfexWebScraper scraper;
+    private final APIKeyService apiKeyService;
+    private final SkiResortRepository skiResortRepository;
+    private final SkiResortTimelineRepository skiResortTimelineRepository;
 
-    @Autowired
-    SkiResortRepository skiResortRepository;
-
-    @Autowired
-    SkiResortTimelineRepository skiResortTimelineRepository;
-
-    SkiResortService() {
+    SkiResortService(APIKeyService apiKeyService, SkiResortRepository skiResortRepository,
+                     SkiResortTimelineRepository skiResortTimelineRepository) {
+        this.skiResortRepository = skiResortRepository;
+        this.skiResortTimelineRepository = skiResortTimelineRepository;
+        this.apiKeyService = apiKeyService;
         this.scraper = new BergfexWebScraper();
     }
 
@@ -41,8 +44,6 @@ public class SkiResortService {
             return "gespeichert";
         }
         return "bereits in Datenbank";
-
-
     }
 
     private boolean alreadyExists(SkiResort skiResort) {
@@ -71,8 +72,9 @@ public class SkiResortService {
         this.scraper = scraper;
     }
 
-    public List<SkiResortAndTimelineDTO> findAllResorts(boolean sorted, Integer minSnowHeightMountain, Integer minSnowHeightValley) {
-        if (sorted) {
+    public List<SkiResortAndTimelineDTO> findAllResorts(String apiAccessKey, boolean sorted, Integer minSnowHeightMountain, Integer minSnowHeightValley) throws InvalidApiKeyException, ResponseStatusException{
+        apiKeyService.validateAPIKey(apiAccessKey);
+        if(sorted) {
             List<SkiResortAndTimelineDTO> skiResortAndTimelineDTOs = skiResortRepository.findAllResortsWithTimelineOrderedBySnowMountainHeight();
             return filterDTOListBy(skiResortAndTimelineDTOs, minSnowHeightValley, minSnowHeightMountain);
         } else {
@@ -100,13 +102,23 @@ public class SkiResortService {
 
     }
 
-    public SingleResortResponseDTO findSingleResort(Long id, boolean current) {
-        if(current) {
-            return skiResortRepository.findResortWithTimeline(id);
-        } else {
-            SkiResortAndAllTimelinesDTO skiResortAndAllTimelinesDTO = createAllTimelineDTO(id);
-            return skiResortAndAllTimelinesDTO;
+    public SingleResortResponseDTO findSingleResort(String apiKey, Long id, boolean current) throws MissingResourceException, InvalidApiKeyException {
+        apiKeyService.validateAPIKey(apiKey);
+        if(resortExists(id)) {
+            if(current) {
+                return skiResortRepository.findResortWithTimeline(id);
+            } else {
+                SkiResortAndAllTimelinesDTO skiResortAndAllTimelinesDTO = createAllTimelineDTO(id);
+                return skiResortAndAllTimelinesDTO;
+            }
         }
+        else {
+            throw new MissingResourceException("Das angeforderte Skigebiet existiert nicht", getClass().getName(), id.toString());
+        }
+    }
+
+    private boolean resortExists(Long id) {
+        return skiResortRepository.existsById(id);
     }
 
     private SkiResortAndAllTimelinesDTO createAllTimelineDTO(Long id) {
