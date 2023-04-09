@@ -1,5 +1,6 @@
 package com.manu.BergfexScraper.model;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 
 import java.util.Date;
@@ -12,6 +13,7 @@ public class SkiResortTimeline {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long Id;
 
+    @JsonBackReference
     @ManyToOne(fetch = FetchType.LAZY)
     private SkiResort skiResort;
 
@@ -34,6 +36,7 @@ public class SkiResortTimeline {
         this.liftsOpen = liftsOpen;
         this.pistesOpen = pistesOpen;
     }
+
 
     public Long getId() {
         return Id;

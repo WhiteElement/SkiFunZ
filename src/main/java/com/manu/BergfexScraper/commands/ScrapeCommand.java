@@ -1,12 +1,12 @@
 package com.manu.BergfexScraper.commands;
 
+import com.manu.BergfexScraper.model.APIKey;
 import com.manu.BergfexScraper.model.SkiResort;
+import com.manu.BergfexScraper.service.APIKeyService;
 import com.manu.BergfexScraper.service.SkiResortService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
-
 import java.net.MalformedURLException;
 import java.util.List;
 import java.util.Scanner;
@@ -14,8 +14,13 @@ import java.util.Scanner;
 @ShellComponent
 public class ScrapeCommand {
 
-    @Autowired
-    SkiResortService skiResortService;
+    private final APIKeyService apiKeyService;
+    private final SkiResortService skiResortService;
+
+    public ScrapeCommand(APIKeyService apiKeyService, SkiResortService skiResortService) {
+        this.apiKeyService = apiKeyService;
+        this.skiResortService = skiResortService;
+    }
 
     @ShellMethod(key = "gebiet-neu", value = "speichert ein neues Skigebiet")
     public String createNewSkiResort(@ShellOption(defaultValue = "") String url) throws MalformedURLException {
@@ -47,23 +52,40 @@ public class ScrapeCommand {
         }
     }
 
-    @ShellMethod(key = "gebiete", value= "zeigt alle Gebiete in der Datenbank an")
-    public String showAllResorts() {
-        String result = "Skigebiete \n" +
-                        "---------- \n";
-        List<SkiResort> skiResorts = skiResortService.findAll();
-        if(skiResorts.size() == 0) {
-            return "Noch keine Skigebiete hinzugefügt";
+    @ShellMethod(key = "create", value = "legt neuen User mit API-Key an")
+    public String createNewUserWithKey(@ShellOption(defaultValue = "" ) String username) {
+        if(username.equals("")) {
+            return "keinen Username angegeben! \n" +
+                    "Versuche: 'create USERNAME'";
         } else {
-            int counter = 1;
-            for(SkiResort skiResort : skiResorts) {
-                result += counter + ".) "
-                        + skiResort.getName()
-                        + "\n";
-                counter++;
+            if(!apiKeyService.userNameAlreadyExists(username)) {
+                return "Username ist bereits vergeben";
+            } else {
+                APIKey apiKey = apiKeyService.createNew(username);
+                return "Neuer User + Key angelegt:\n" +
+                        "-------------------------\n" +
+                        "Username: " + apiKey.getUsername() + "\n" +
+                        "Key: " + apiKey.getKeyValue();
             }
-            return result;
         }
-
     }
+
+//    @ShellMethod(key = "gebiete", value= "zeigt alle Gebiete in der Datenbank an")
+//    public String showAllResorts() {
+//        String result = "Skigebiete \n" +
+//                        "---------- \n";
+//        List<SkiResort> skiResorts = skiResortService.findAll(false);
+//        if(skiResorts.size() == 0) {
+//            return "Noch keine Skigebiete hinzugefügt";
+//        } else {
+//            int counter = 1;
+//            for(SkiResort skiResort : skiResorts) {
+//                result += counter + ".) "
+//                        + skiResort.getName()
+//                        + "\n";
+//                counter++;
+//            }
+//            return result;
+//        }
+//    }
 }
