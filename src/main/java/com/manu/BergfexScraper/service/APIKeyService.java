@@ -3,7 +3,6 @@ package com.manu.BergfexScraper.service;
 import com.manu.BergfexScraper.errorhandling.InvalidApiKeyException;
 import com.manu.BergfexScraper.model.APIKey;
 import com.manu.BergfexScraper.repository.APIKeyRepository;
-
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;

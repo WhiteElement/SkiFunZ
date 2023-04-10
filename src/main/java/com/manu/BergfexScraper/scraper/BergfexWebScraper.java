@@ -4,6 +4,7 @@ import com.manu.BergfexScraper.model.SkiResort;
 import com.manu.BergfexScraper.model.SkiResortTimeline;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.springframework.util.StringUtils;
 
@@ -93,18 +94,15 @@ public class BergfexWebScraper {
         return document.select(queryString);
     }
 
-    private Integer getValueFor(String tableString) {
-        Elements resultElements = findElements(tableString);
-        if(resultElements.size() == 0) {
-            return null;
+    public Integer getValueFor(String tableString) {
+        Element dtElement = findElements(tableString).first();
+        if (dtElement != null) {
+            Element ddElement = dtElement.nextElementSibling();
+            if (ddElement != null) {
+                return convertToInt(ddElement.ownText());
+            }
         }
-        if(resultElements.next().text() == "-") {
-            return null;
-        }
-        if(resultElements.size() > 1) {
-            return convertToInt(resultElements.next().first().text());
-        }
-        return convertToInt(resultElements.next().text());
+        return null;
     }
 
     private Integer convertToInt(String text) {

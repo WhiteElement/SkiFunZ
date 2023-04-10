@@ -2,12 +2,18 @@ package com.manu.BergfexScraper.commands;
 
 import com.manu.BergfexScraper.model.APIKey;
 import com.manu.BergfexScraper.model.SkiResort;
+import com.manu.BergfexScraper.model.SkiResortTimeline;
+import com.manu.BergfexScraper.scraper.BergfexWebScraper;
 import com.manu.BergfexScraper.service.APIKeyService;
 import com.manu.BergfexScraper.service.SkiResortService;
+import org.jsoup.Jsoup;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
+
+import java.io.IOException;
 import java.net.MalformedURLException;
+import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
@@ -68,6 +74,22 @@ public class ScrapeCommand {
                         "Key: " + apiKey.getKeyValue();
             }
         }
+    }
+
+    @ShellMethod(key = "test")
+    public String testmethod() throws MalformedURLException {
+        String url = "https://www.bergfex.ch/toggenburg-chaeserrugg/schneebericht/";
+        BergfexWebScraper scraper = new BergfexWebScraper(url);
+        SkiResort skiResort = scraper.init();
+        String snowHeightsUrl = skiResort.getUrl().toString() + "/schneebericht";
+
+        try {
+            scraper.setDocument(Jsoup.connect(snowHeightsUrl).get());
+            return scraper.getValueFor("Berg").toString();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
     }
 
 //    @ShellMethod(key = "gebiete", value= "zeigt alle Gebiete in der Datenbank an")
