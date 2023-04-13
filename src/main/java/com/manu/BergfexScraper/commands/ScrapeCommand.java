@@ -2,18 +2,12 @@ package com.manu.BergfexScraper.commands;
 
 import com.manu.BergfexScraper.model.APIKey;
 import com.manu.BergfexScraper.model.SkiResort;
-import com.manu.BergfexScraper.model.SkiResortTimeline;
-import com.manu.BergfexScraper.scraper.BergfexWebScraper;
 import com.manu.BergfexScraper.service.APIKeyService;
 import com.manu.BergfexScraper.service.SkiResortService;
-import org.jsoup.Jsoup;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
-
-import java.io.IOException;
 import java.net.MalformedURLException;
-import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
@@ -28,7 +22,7 @@ public class ScrapeCommand {
         this.skiResortService = skiResortService;
     }
 
-    @ShellMethod(key = "gebiet-neu", value = "speichert ein neues Skigebiet")
+    @ShellMethod(key = "gebiete-neu", value = "speichert ein neues Skigebiet")
     public String createNewSkiResort(@ShellOption(defaultValue = "") String url) throws MalformedURLException {
         String urlstring;
         if(url.equals("")) {
@@ -41,7 +35,7 @@ public class ScrapeCommand {
         return skiResortService.initNewResort(urlstring);
     }
 
-    @ShellMethod(key = "gebiet-update", value = "führt ein Update für alle in der Datenbank befindlichen Skigebiete durch")
+    @ShellMethod(key = "gebiete-update", value = "führt ein Update für alle in der Datenbank befindlichen Skigebiete durch")
     public String updateSkiResortSnowData() throws MalformedURLException {
         List<SkiResort> skiResorts = skiResortService.findAll();
         if(skiResorts.size() == 0) {
@@ -58,7 +52,7 @@ public class ScrapeCommand {
         }
     }
 
-    @ShellMethod(key = "create", value = "legt neuen User mit API-Key an")
+    @ShellMethod(key = "user-neu", value = "legt neuen User mit API-Key an")
     public String createNewUserWithKey(@ShellOption(defaultValue = "" ) String username) {
         if(username.equals("")) {
             return "keinen Username angegeben! \n" +
@@ -76,38 +70,22 @@ public class ScrapeCommand {
         }
     }
 
-    @ShellMethod(key = "test")
-    public String testmethod() throws MalformedURLException {
-        String url = "https://www.bergfex.ch/toggenburg-chaeserrugg/schneebericht/";
-        BergfexWebScraper scraper = new BergfexWebScraper(url);
-        SkiResort skiResort = scraper.init();
-        String snowHeightsUrl = skiResort.getUrl().toString() + "/schneebericht";
-
-        try {
-            scraper.setDocument(Jsoup.connect(snowHeightsUrl).get());
-            return scraper.getValueFor("Berg").toString();
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+    @ShellMethod(key = "gebiete", value= "zeigt alle Gebiete in der Datenbank an")
+    public String showAllResorts() {
+        String result = "Skigebiete \n" +
+                        "---------- \n";
+        List<SkiResort> skiResorts = skiResortService.findAll();
+        if(skiResorts.size() == 0) {
+            return "Noch keine Skigebiete hinzugefügt";
+        } else {
+            int counter = 1;
+            for(SkiResort skiResort : skiResorts) {
+                result += counter + ".) "
+                        + skiResort.getName()
+                        + "\n";
+                counter++;
+            }
+            return result;
         }
-
     }
-
-//    @ShellMethod(key = "gebiete", value= "zeigt alle Gebiete in der Datenbank an")
-//    public String showAllResorts() {
-//        String result = "Skigebiete \n" +
-//                        "---------- \n";
-//        List<SkiResort> skiResorts = skiResortService.findAll(false);
-//        if(skiResorts.size() == 0) {
-//            return "Noch keine Skigebiete hinzugefügt";
-//        } else {
-//            int counter = 1;
-//            for(SkiResort skiResort : skiResorts) {
-//                result += counter + ".) "
-//                        + skiResort.getName()
-//                        + "\n";
-//                counter++;
-//            }
-//            return result;
-//        }
-//    }
 }
