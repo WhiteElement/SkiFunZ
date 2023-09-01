@@ -1,7 +1,6 @@
 package com.manu.BergfexScraper.controller;
 
 import com.manu.BergfexScraper.errorhandling.InvalidApiKeyException;
-import com.manu.BergfexScraper.service.APIKeyService;
 import com.manu.BergfexScraper.service.SkiResortService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
