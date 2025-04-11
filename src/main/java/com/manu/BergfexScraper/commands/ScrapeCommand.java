@@ -52,6 +52,18 @@ public class ScrapeCommand {
         }
     }
 
+    @ShellMethod(key = "users", value = "zeigt alle User mit deren API-Keys an")
+    public String showAllUsersAndKeys() {
+        var res = apiKeyService.getAll();
+
+        String[] formatted = res.stream()
+            .map(apiKey -> {
+                return String.format("User: %s, Key: %s", apiKey.getUsername(), apiKey.getKeyValue());
+            }).toArray(String[]::new);
+
+        return String.join("\n", formatted);
+    }
+
     @ShellMethod(key = "user-neu", value = "legt neuen User mit API-Key an")
     public String createNewUserWithKey(@ShellOption(defaultValue = "" ) String username) {
         if(username.equals("")) {
