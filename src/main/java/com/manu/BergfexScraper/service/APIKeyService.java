@@ -30,7 +30,6 @@ public class APIKeyService {
 
     public List<APIKey> getAll() {
         return apiKeyRepository.findAll();
-
     }
 
     public int countKeys() {

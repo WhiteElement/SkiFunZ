@@ -18,7 +18,7 @@ public class APIController {
     }
 
     @GetMapping()
-    public ResponseEntity showAllResorts(@RequestHeader(name = "api-access-key", required = false) String apiKey,
+    public ResponseEntity<?> showAllResorts(@RequestHeader(name = "api-access-key", required = false) String apiKey,
                                          @RequestParam(defaultValue = "false") boolean sorted,
                                          @RequestParam(defaultValue = "0") Integer minSnowHeightMountain,
                                          @RequestParam(defaultValue = "0") Integer minSnowHeightValley)
@@ -29,7 +29,7 @@ public class APIController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity showResortWithTimeline(@RequestHeader(name = "api-access-key", required = false) String apiKey,
+    public ResponseEntity<?> showResortWithTimeline(@RequestHeader(name = "api-access-key", required = false) String apiKey,
                                                           @PathVariable Long id,
                                                           @RequestParam(defaultValue = "false") boolean current) throws InvalidApiKeyException {
         return new ResponseEntity<>(skiResortService.findSingleResort(apiKey, id, current), HttpStatus.OK);
