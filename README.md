@@ -6,15 +6,17 @@ Der zweite ist die eigentliche API, die die Daten (authentifiziert) bereit stell
 Zur Authentifizierung wird ein API-Access-Key benutzt, der sich nur vom Admin erstellen lässt.
 
 ## Administrator
-Verwaltet wird die API aktuell nur serverseitig durch 4 shell-commands:
+Verwaltet wird die API aktuell nur serverseitig durch diese shell-commands:
 
-- `gebiete` - Zeigt alle Skigebiete an
+- `gebiete` - Zeigt alle aktuell getrackten Skigebiete an
 
-- `gebiete-neu` - fügt ein neues Gebiet zur Datenbank/Watchlist hinzu
+- `gebiete-neu` - Fügt ein neues Gebiet zur Watchlist hinzu
 
-- `gebiete-update` - fürht den eigentlichen Scraper aus, der alle in der Datenbank befindlichen Gebiete updatet
+- `gebiete-update` - Startet den Webscraper und aggregiert die Daten
 
-- `user-neu` - legt einen neuen User mit einzigartigem API-Access-Key an.
+- `users` - Zeigt alle User und deren API Key an
+
+- `user-neu` - Legt einen neuen User mit einzigartigem API-Access-Key an.
 
 ## API
 Die eigentliche Schnittstelle bietet 2 Endpunkte mit verschiedenen Filtermöglichkeiten:
