@@ -25,6 +25,7 @@ public class ScrapeCommand {
     @ShellMethod(key = "gebiete-neu", value = "speichert ein neues Skigebiet")
     public String createNewSkiResort(@ShellOption(defaultValue = "") String url) throws MalformedURLException {
         String urlstring;
+
         if(url.isEmpty()) {
             System.out.println("Bergfex Link des Skigebiets einfügen: ");
             Scanner scanner = new Scanner(System.in);
@@ -32,13 +33,14 @@ public class ScrapeCommand {
         } else {
             urlstring = url;
         }
+
         return skiResortService.initNewResort(urlstring);
     }
 
     @ShellMethod(key = "gebiete-update", value = "führt ein Update für alle in der Datenbank befindlichen Skigebiete durch")
     public String updateSkiResortSnowData() throws MalformedURLException {
         List<SkiResort> skiResorts = skiResortService.findAll();
-        if(skiResorts.size() == 0) {
+        if(skiResorts.isEmpty()) {
             return "Noch keine Skigebiete hinzugefügt";
         } else {
             for(SkiResort skiResort : skiResorts) {
