@@ -17,7 +17,7 @@ public class ScrapeCommand {
     private final APIKeyService apiKeyService;
     private final SkiResortService skiResortService;
 
-    public ScrapeCommand(APIKeyService apiKeyService, SkiResortService skiResortService) {
+    protected ScrapeCommand(APIKeyService apiKeyService, SkiResortService skiResortService) {
         this.apiKeyService = apiKeyService;
         this.skiResortService = skiResortService;
     }
@@ -25,7 +25,7 @@ public class ScrapeCommand {
     @ShellMethod(key = "gebiete-neu", value = "speichert ein neues Skigebiet")
     public String createNewSkiResort(@ShellOption(defaultValue = "") String url) throws MalformedURLException {
         String urlstring;
-        if(url.equals("")) {
+        if(url.isEmpty()) {
             System.out.println("Bergfex Link des Skigebiets einfügen: ");
             Scanner scanner = new Scanner(System.in);
             urlstring = scanner.nextLine();
