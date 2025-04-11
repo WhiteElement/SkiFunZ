@@ -34,16 +34,22 @@ public class SkiResortService {
         this.scraper = new BergfexWebScraper();
     }
 
-    public String initNewResort(String urlstring) throws MalformedURLException {
-        scraper.setUrl(new URL(urlstring));
+    public String initNewResort(String urlstring) {
+        try {
+            scraper.setUrl(new URL(urlstring));
+        } catch (MalformedURLException e) {
+            return String.format("'%s' ist keine gültige URL", urlstring);
+        }
+
         SkiResort skiResort = scraper.init();
 
-        if (!alreadyExists(skiResort)) {
-            save(skiResort);
-            updateSnowTimeline(skiResort);
-            return "gespeichert";
-        }
-        return "bereits in Datenbank";
+        if (alreadyExists(skiResort))
+            return String.format("'%s' ist bereits in der Datenbank", skiResort.getName());
+
+        save(skiResort);
+        updateSnowTimeline(skiResort);
+
+        return "gespeichert";
     }
 
     private boolean alreadyExists(SkiResort skiResort) {

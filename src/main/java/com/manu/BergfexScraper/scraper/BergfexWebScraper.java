@@ -20,7 +20,7 @@ public class BergfexWebScraper {
 
     public BergfexWebScraper(){}
 
-    public BergfexWebScraper(String url) throws MalformedURLException {
+    protected BergfexWebScraper(String url) throws MalformedURLException {
         this.url = normalizeUrl(url);
     }
 
@@ -31,6 +31,7 @@ public class BergfexWebScraper {
             String headingTextContent = document.select("h1").text();
             skiResort.setName(headingTextContent.replace("Skigebiet ", ""));
             skiResort.setUrl(url);
+
             return skiResort;
         } catch (IOException e) {
             throw new RuntimeException(e);
